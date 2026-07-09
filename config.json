@@ -1,0 +1,183 @@
+{
+  "settings": {
+    "rss_title": "Pokémon TCG - Précommandes & Restocks",
+    "max_items_per_run": 60,
+    "request_timeout_seconds": 25,
+    "sleep_between_requests_seconds": 1.5
+  },
+  "keywords": {
+    "must_have_any": [
+      "pokemon",
+      "pokémon"
+    ],
+    "strong_signals": [
+      "précommande",
+      "precommande",
+      "pré-commande",
+      "pre-order",
+      "prochaine sortie",
+      "bientôt disponible",
+      "disponible prochainement",
+      "réserver",
+      "reservation",
+      "elite trainer box",
+      "etb",
+      "display",
+      "booster",
+      "bundle",
+      "coffret",
+      "collection",
+      "ultra-premium",
+      "premium",
+      "trainer box",
+      "30th",
+      "30e",
+      "anniversaire",
+      "mega evolution",
+      "méga-évolution"
+    ],
+    "exclude": [
+      "occasion",
+      "reconditionné",
+      "carte à l'unité",
+      "single card",
+      "proxy",
+      "gradée",
+      "graded",
+      "funko",
+      "peluche",
+      "figurine",
+      "lego"
+    ]
+  },
+  "stores": [
+    {
+      "name": "Micromania - Cartes précommande",
+      "url": "https://www.micromania.fr/c/cartes-precommande",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/p/"
+      ]
+    },
+    {
+      "name": "Micromania - Prochaines sorties cartes",
+      "url": "https://www.micromania.fr/c/cartes-prochaines-sorties",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/p/"
+      ]
+    },
+    {
+      "name": "Micromania - Pokémon cartes",
+      "url": "https://www.micromania.fr/c/cartespokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/p/"
+      ]
+    },
+    {
+      "name": "Playin - Prochaines sorties",
+      "url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/produit/"
+      ]
+    },
+    {
+      "name": "Playin - Pokémon",
+      "url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/produit/"
+      ]
+    },
+    {
+      "name": "Playin - Booster & Display Pokémon",
+      "url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/produit/"
+      ]
+    },
+    {
+      "name": "Fnac - Pokémon marque",
+      "url": "https://www.fnac.com/Pokemon/m56843/w-4",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/a"
+      ]
+    },
+    {
+      "name": "Fnac - Booster Pokémon",
+      "url": "https://www.fnac.com/n229856/Jeux-de-recre-cartes-a-collectionner/Coffret-booster-cartes-Pokemon",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/a"
+      ]
+    },
+    {
+      "name": "Fnac - recherche précommande Pokémon TCG",
+      "url": "https://www.fnac.com/SearchResult/ResultList.aspx?Search=pokemon+tcg+precommande",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/a"
+      ]
+    },
+    {
+      "name": "Cultura - Cartes Pokémon",
+      "url": "https://www.cultura.com/cartes-a-jouer/cartes-pokemon.html",
+      "priority": "high",
+      "link_allow_patterns": [
+        "/p-"
+      ]
+    },
+    {
+      "name": "Cultura - Mega Pokémon",
+      "url": "https://www.cultura.com/c/mega-pokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/p-"
+      ]
+    },
+    {
+      "name": "Parkage - Recherche Pokémon",
+      "url": "https://www.parkage.com/fr/recherche?controller=search&s=pokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/fr/"
+      ]
+    },
+    {
+      "name": "Le Coin des Barons - Recherche Pokémon",
+      "url": "https://www.lecoindesbarons.com/recherche?controller=search&s=pokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/"
+      ]
+    },
+    {
+      "name": "DracauGames - Recherche Pokémon",
+      "url": "https://www.dracaugames.com/recherche?controller=search&s=pokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/"
+      ]
+    },
+    {
+      "name": "Ludifolie - Recherche Pokémon",
+      "url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/"
+      ]
+    },
+    {
+      "name": "Philibert - Précommandes",
+      "url": "https://www.philibertnet.com/fr/578-precommandes",
+      "priority": "medium",
+      "link_allow_patterns": [
+        "/fr/"
+      ]
+    }
+  ]
+}
