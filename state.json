@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 10 Jul 2026 17:27:37 GMT",
+      "id": "67601a89fefe56f4762d8ce6d44ebdfded8a42ab9a4c3c1567a77006891854df",
+      "price": "69.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Rupture Pokemon ME04 : Chaos Ascendant - Coffret... Le Pokemon ME04 : Chaos Ascendant - Coffret Dresseur d’Elite contient 9... https://schema.org/OutOfStock 69.",
+      "url": "https://www.ludifolie.com/24556-pokemon-me04-chaos-ascendant-coffret-dresseur-delite.html"
+    },
+    {
       "first_seen": "Thu, 09 Jul 2026 22:47:17 GMT",
       "id": "4565397afd5d8ac9a668d72dbe145824e4345bb1c6cdb5206c03699953f130a3",
       "price": null,
@@ -789,15 +803,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "563a5671200f211688b841ca78d030489a0e0e06c8f24ea75d6edb22bfe11caf",
-      "https://www.micromania.fr/c/cartes-precommande": "60c6655c92811bf32864722e76a7534886d4d3aabd6b4241ff7033ec4bb79fc2",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "5cdc582b8d00c327a8a1d97143b7a03fcfb42e522822756e2e61ff29a076297b",
-      "https://www.micromania.fr/c/cartespokemon": "fcbfb373394731ff77371cd3b1ae961ebf59d53d8156225a7cbd59761381bb46",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "a6753800b5f71fdae1ec9c585352d49d47ad78653ccf2d5f015180d49019f492",
-      "https://www.philibertnet.com/fr/578-precommandes": "c8a1cd829b5d3979d0b767a2b74c3c75cc7ed638b7619791f4b31bf67c33cd8f",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "ba1a1aab2f7c2dc2a3b5cee3b4fbda6d88531d3ee93c427bae75221ed9d0bece",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "39650c97ca2ae10f902b6a2f7dc107d455f3294fcf5136b095f80931421c8327",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "506133b51535b4bdbf56158df68fa3af7e162dd2bd4695fdfc2192575ee001b2"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "8bffa574873dce8c31f42e9069d4ab57e143f42e5261c3ca63c863a7f3e9b8fa",
+      "https://www.micromania.fr/c/cartes-precommande": "a1429a76f860ced37dc58acb0bf5952e9f44e7837f086d189614d0bdebefe68e",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "1639c266804c856c5c377d769d92f57c7a921759c6db28de6e864cf57e0b5817",
+      "https://www.micromania.fr/c/cartespokemon": "c6fbd02afa3a714a839fc2174d776e1f4b5c315e86d34c984979e4f7435fc8be",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "127a875c04683d7b441fb70f6868c32cfc64ab135d172caadd8c6acc7803dc9b",
+      "https://www.philibertnet.com/fr/578-precommandes": "964ee0e818b7871f3c56c2dfe9f5aaf1591da990b14aae91f1565b76fb43828a",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "34b3f474ab30033ce01a5f1d7e479f0859060a8c9ecb5535d9345b7c9895e167",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "0bb98485b78dc14132cb9d8ef8eea6f5aacd46b6e4d92ed8f329abd4113761b1",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "72b0697b5e9bf84fedff40e17ff1ea81809d39e49c12aa9ed9a841d3bdf79fc6"
     }
   }
 }
