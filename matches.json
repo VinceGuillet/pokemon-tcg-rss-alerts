@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "15641c85a39fff04b6d2c6ba56f10da7837c00e0f6b0af852ba86e605f1a099a",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Écarlate et Violet : Foudre Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/653587/booster-ecarlate-et-violet-foudre-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "11.90 €",
+    "first_seen": "Sun, 12 Jul 2026 03:57:57 GMT"
+  }
+]
