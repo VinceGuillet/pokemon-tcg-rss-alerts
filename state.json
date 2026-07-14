@@ -817,15 +817,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "2ecd3c78f2f41834d1190c570d533d442d42b1dc890db3c11b04671511c53e0f",
-      "https://www.micromania.fr/c/cartes-precommande": "647d1b3eebd0833cf33cb840883de726c483c938f0e0164a879e098918216705",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "b5a8a47a43d46612e54deb94835d19f0b6a674e4522faf288012270b432647a1",
-      "https://www.micromania.fr/c/cartespokemon": "dd4d47913dfb00f0e998bb237a0db5cf5705688c4f49ef7e18fdaf7f7926ee02",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "2e97774ae8e5ed37f707bb6bb6ddafd5292a3861709b98726ae189fd81dfde19",
-      "https://www.philibertnet.com/fr/578-precommandes": "bc47572a243530dca50c01a085b40c2dff73c2676ba1f8c47872edd17dc30883",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "adf02093c76d627b73719d242bfbe35d7a6923835398426299518dd8346ceb87",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "34c5c38847ff11137e7bf0053ac2a26830096c420e9659433f04eebeb30e0dc5",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "db044e5bfa421236967142c9a05743392d743802555c25546467f5ea2225c015"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "d769bac02d8298b3a60fbc3ec110d24228a233b097ef6b66803f501377bbc499",
+      "https://www.micromania.fr/c/cartes-precommande": "54fc117efc9890531305f25f9d4bbd02e9156dc965f68c9437481a74d6df400d",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "9ab2644a5009d7fffbdf701ff0d53815cdb5b9bae108efd6adfd5d3a4f9708d8",
+      "https://www.micromania.fr/c/cartespokemon": "d381f546d23920e06362800484a3d66bf0db3712b09fb64201f1ade3db820b37",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "82c727a54342b22ab840e2716f15df17c46168025fc7a3f35018a6a9f10ddf83",
+      "https://www.philibertnet.com/fr/578-precommandes": "35c6b6107684c92d0a65aebe70462291d01c2a14c13321794a74b54d9c7ab0ad",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "cad169b7d8592aaa9da10dd15259be1ccb3a8d7d5432b9c58a01aa06a75add63",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "71adf8724a041ba8eadfc558599463e62e62e82ab703bf25c10b8fa18d8780fb",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "1634c107101df6eb60ad3c21358860666d38fe995e3ce539c78c000975fcde87"
     }
   }
 }
