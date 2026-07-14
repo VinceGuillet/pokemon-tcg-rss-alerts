@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 14 Jul 2026 03:33:05 GMT",
+      "id": "02af47ec3fde08d63126985e9e7c9f53bc2955fd09478ecfd689664052066f03",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Méga-Évolution – Chaos Ascendant - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/648015/booster-mega-evolution-chaos-ascendant-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 14 Jul 2026 03:33:05 GMT",
+      "id": "0c480fc6c64053a03fc51e6b57f53c6ddbb5b262bda948b755ac93671c868531",
+      "price": "219.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "booster",
+        "display",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Display de 36 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT",
+      "id": "e9e89b8171565e95100b0c6ba956585881d1355443626bcdfa1f4b63ce348ff8",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Méga-Évolution – Chaos Ascendant - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/648015/booster-mega-evolution-chaos-ascendant-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT",
+      "id": "95e67f90310f90869dc8ea3126bf457cf859144a79f711e8b2bd0f1a813c0471",
+      "price": "7.50 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Blister Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/658001/booster-blister-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT",
+      "id": "f7305e21b61e8041e0f54e2c6361ada9c78b62586610c852351eac573d6e52ca",
+      "price": "219.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "booster",
+        "display",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 36 boosters Méga-Évolution – Chaos Ascendant - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/648021/display-de-36-boosters-mega-evolution-chaos-ascendant-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT",
+      "id": "febce0ee9c8f4a3bf8016a865d79b9a6ac09b26118e764372a27c035ecb81137",
+      "price": "219.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "booster",
+        "display",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 36 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
       "first_seen": "Sun, 12 Jul 2026 03:57:57 GMT",
       "id": "15641c85a39fff04b6d2c6ba56f10da7837c00e0f6b0af852ba86e605f1a099a",
       "price": "11.90 €",
@@ -817,15 +910,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "d769bac02d8298b3a60fbc3ec110d24228a233b097ef6b66803f501377bbc499",
-      "https://www.micromania.fr/c/cartes-precommande": "54fc117efc9890531305f25f9d4bbd02e9156dc965f68c9437481a74d6df400d",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "9ab2644a5009d7fffbdf701ff0d53815cdb5b9bae108efd6adfd5d3a4f9708d8",
-      "https://www.micromania.fr/c/cartespokemon": "d381f546d23920e06362800484a3d66bf0db3712b09fb64201f1ade3db820b37",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "82c727a54342b22ab840e2716f15df17c46168025fc7a3f35018a6a9f10ddf83",
-      "https://www.philibertnet.com/fr/578-precommandes": "35c6b6107684c92d0a65aebe70462291d01c2a14c13321794a74b54d9c7ab0ad",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "cad169b7d8592aaa9da10dd15259be1ccb3a8d7d5432b9c58a01aa06a75add63",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "71adf8724a041ba8eadfc558599463e62e62e82ab703bf25c10b8fa18d8780fb",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "1634c107101df6eb60ad3c21358860666d38fe995e3ce539c78c000975fcde87"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "36ca3f2d3eef8ac8b589b8a750e47b4594558ad7fafb2421dc7df958e9db18f5",
+      "https://www.micromania.fr/c/cartes-precommande": "45f85f21143846162feae4239ec9dee63a276457e95ba26b714577975b08ba97",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "5b06e9df14f3036cf902cb67f4c2e0f3517e8173f22e74503b082d816662b128",
+      "https://www.micromania.fr/c/cartespokemon": "ca56214909c87d875d51d15d2a460437e14641511cfc5b7111eae0f9f5ef0386",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "53f09a047bc1f86672d2b07fcceb221d541d2d820eadf0eb9fd410acc81d9989",
+      "https://www.philibertnet.com/fr/578-precommandes": "76629e8d43e54f47cb21640926a7f2241d167eef1a70a7f1f974608d138a5ff5",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "452c19a4be7e3eb1e90cbd3c801a5a9208c82de03e59d46e286042063f3e8931",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "b86f3e4aab35a6a6f366423e99c80a3aaaf83be57bd1a1452c485a42831dfdad",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "70632e8c964549f08669f5473407ee9b5f52f4e78199527733abedc67cfd64c5"
     }
   }
 }

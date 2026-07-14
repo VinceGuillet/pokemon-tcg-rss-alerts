@@ -1,1 +1,95 @@
-[]
+[
+  {
+    "id": "febce0ee9c8f4a3bf8016a865d79b9a6ac09b26118e764372a27c035ecb81137",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-mega-evolution-nuit-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "219.90 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT"
+  },
+  {
+    "id": "f7305e21b61e8041e0f54e2c6361ada9c78b62586610c852351eac573d6e52ca",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Chaos Ascendant - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/648021/display-de-36-boosters-mega-evolution-chaos-ascendant-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "219.90 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT"
+  },
+  {
+    "id": "95e67f90310f90869dc8ea3126bf457cf859144a79f711e8b2bd0f1a813c0471",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Blister Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/658001/booster-blister-mega-evolution-nuit-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "7.50 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT"
+  },
+  {
+    "id": "e9e89b8171565e95100b0c6ba956585881d1355443626bcdfa1f4b63ce348ff8",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Méga-Évolution – Chaos Ascendant - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/648015/booster-mega-evolution-chaos-ascendant-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:02 GMT"
+  },
+  {
+    "id": "0c480fc6c64053a03fc51e6b57f53c6ddbb5b262bda948b755ac93671c868531",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-mega-evolution-nuit-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "219.90 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:05 GMT"
+  },
+  {
+    "id": "02af47ec3fde08d63126985e9e7c9f53bc2955fd09478ecfd689664052066f03",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Méga-Évolution – Chaos Ascendant - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/648015/booster-mega-evolution-chaos-ascendant-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Tue, 14 Jul 2026 03:33:05 GMT"
+  }
+]
