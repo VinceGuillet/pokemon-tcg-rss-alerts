@@ -1,6 +1,139 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 17 Jul 2026 04:25:12 GMT",
+      "id": "f09fca47e45976c4a8dac36bad77985370d0b1117c266e36292943acd8b260a9",
+      "price": "7.50 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Blister Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/658001/booster-blister-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "8bfeaa2f3aa6d33f02b09b398c45b26eb30e5ede653d8d42a08c5de777e8e33c",
+      "price": "11.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Épée et Bouclier : EB09 Stars Étincelantes - Pokémon EN",
+      "url": "https://www.play-in.com/fr/produit/398408/booster-epee-et-bouclier-eb09-stars-etincelantes-pokemon-en"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "0c6c9c9c912d3070e2c083a707e15a33cf713daea3f009b8bb91f712863b4d5e",
+      "price": "259.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Boite de 36 boosters Écarlate et Violet : Flammes Obsidiennes - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/495211/boite-de-36-boosters-ecarlate-et-violet-flammes-obsidiennes-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "30c5dcb772d2d045b6e7c61e871602fd5dd43480391d22951349b39dbf76fcfe",
+      "price": "8.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Écarlate et Violet : Flammes Obsidiennes - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/495210/booster-ecarlate-et-violet-flammes-obsidiennes-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "08a03360e788108e5537f924085ef96d151fa4343742aab0a4f84ae6e6549686",
+      "price": "11.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Écarlate et Violet : Foudre Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/653587/booster-ecarlate-et-violet-foudre-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "f275b440d3dea103f2e85993a56addf5f0941cfc01cc2f5c84fae153461c179b",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Méga-Évolution – Équilibre Parfait - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/637207/booster-mega-evolution-equilibre-parfait-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "fece0a3b434f4f52564543bdb1cf4bbb16488b01d2ec5184450c56b429425fe9",
+      "price": "219.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "booster",
+        "display",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 36 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/637208/display-de-36-boosters-mega-evolution-equilibre-parfait-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:09 GMT",
+      "id": "3f103da0dee5e0611fe77bd3bc7657c4596b15806f00d221eff35d4beca7c6bb",
+      "price": "74.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "etb",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Équilibre Parfait - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/637211/coffret-dresseur-d-elite-etb-mega-evolution-equilibre-parfait-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 17 Jul 2026 04:25:06 GMT",
+      "id": "4a3ee0ce80465066a6894538828c5d9ff03ab888f20489887c122eb7dbd25555",
+      "price": "7.50 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "store": "Playin - Prochaines sorties",
+      "title": "Booster Blister Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/658001/booster-blister-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
       "first_seen": "Tue, 14 Jul 2026 03:33:05 GMT",
       "id": "02af47ec3fde08d63126985e9e7c9f53bc2955fd09478ecfd689664052066f03",
       "price": "6.90 €",
@@ -910,15 +1043,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "1fc8a8f57e284cb88fd75f3f571e511047952599491eb3df8efd91b1222aef06",
-      "https://www.micromania.fr/c/cartes-precommande": "ba87e4b955db5fd75e39462a1d1ae3e5406ed41bb120a1a5d3f60576732f281d",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "84b6b9ec4b375283bda4cb43e2ab4231e868ae0f407edef77d32789e4d900ac8",
-      "https://www.micromania.fr/c/cartespokemon": "cb9ebb3477c571986b3ebb0e5a6ad7a019a1845dd86c1721d3154d58a9e600d2",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "9630fa5f3ec318014f119085428d9856a6e761d6324650af418b5e5ee7ec45eb",
-      "https://www.philibertnet.com/fr/578-precommandes": "bce3325de5880ceacdb5cbf400cf0c97b839c196914a0dc69173e3bf5a919658",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "38f25eefb694b553d3255f23729dd508fe0db5796aeb35569650bf0959d0d801",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "bfce6adc9ee318d4dae4ee705d378bd788403c98ee610b9593a8c2884a5eb527",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "00505907db67b0f59046a54ed9581cb504a26fa543d38da5531b99d23e954d22"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "7991ff439e22e545fe1cfe41aa6a06896c67869802eb58870c164688c03aac3c",
+      "https://www.micromania.fr/c/cartes-precommande": "0f1a3c1dc126b76d26746d59ac8bc7efaa0fb0397dcdd1c7195607e7b4a12c59",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "c9dfbf4605eb4a502a88996b003e28095b1c0dbba4cebb9a8830bf2c5ca8be4b",
+      "https://www.micromania.fr/c/cartespokemon": "0d678bfa57c8fb00f0c15f2ea43f9699eee9ebf5fbb08d4c742b657e7b58c871",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "a2dc5c453df658bfc2130fc889e72d99f24c3b388d77eeeafd9b38d04548c1cd",
+      "https://www.philibertnet.com/fr/578-precommandes": "0c86a32ba7ba1bbb8e11e87e72ccfc5f3b38b7751c3245a6ba7eac5e74d09ee4",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "7dce4b94f5fe541bd33bba9e9ffcd33c61af555a36fb9340a3d07d069674b497",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "3ab4a25829133b51e0feccafe69da4727217ea9104f0a0f2c2b759fc73be23a4",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "11f5b5ca9e56fd619dc177baed250e7b5c6af687964cceb0925d04dbe903ebf3"
     }
   }
 }
