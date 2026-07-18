@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "20fb7ee3f28765b4a336474270c4148952efd9680874dda19c7b81d11b371e9a",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Écarlate et Violet : Rivalités Destinées - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/589976/booster-ecarlate-et-violet-rivalites-destinees-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "9.90 €",
+    "first_seen": "Sat, 18 Jul 2026 04:14:18 GMT"
+  }
+]
