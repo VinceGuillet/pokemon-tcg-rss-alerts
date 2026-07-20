@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "a9d06853d08193ff70fc6fd045be987fb68c088f5b11554ee1d5209555236c8e",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Bundle 6 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637216/bundle-6-boosters-mega-evolution-equilibre-parfait-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "bundle",
+      "méga-évolution"
+    ],
+    "price": "39.90 €",
+    "first_seen": "Mon, 20 Jul 2026 15:21:20 GMT"
+  }
+]
