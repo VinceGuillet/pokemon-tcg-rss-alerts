@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 21 Jul 2026 07:20:17 GMT",
+      "id": "2d5b5085f4e4d590c843cea4fe34d487c463e940261fde666c768e39f708c9cd",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Deck Championnats du Monde 2025 : Jose Cruz Galindo-Resendiz - Pult Bomb - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/656387/deck-championnats-du-monde-2025-jose-cruz-galindo-resendiz-pult-bomb-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 21 Jul 2026 07:20:14 GMT",
+      "id": "b6368decf20513a700d93b50f8c44b3052d77d8f6c4f08e754e364c2e1fdf6fb",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster 151 Vol 4 Gathering - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660868/booster-151-vol-4-gathering-pokemon-cn"
+    },
+    {
       "first_seen": "Mon, 20 Jul 2026 15:21:20 GMT",
       "id": "a9d06853d08193ff70fc6fd045be987fb68c088f5b11554ee1d5209555236c8e",
       "price": "39.90 €",
@@ -1073,15 +1099,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "1cbd3893fd8cf680dce885123a7046cdf54380b8953532ced73a11a0d6cbcbd3",
-      "https://www.micromania.fr/c/cartes-precommande": "2f2c451f8cff49787de65a123657f7d6f0978b17d1cd703e26eb9bb901eedbdc",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "27abf5afcf10ee8b7c8cce4f63d5c7c5c66f40e4bb6038b53f3e80f35b907674",
-      "https://www.micromania.fr/c/cartespokemon": "9b47be8cd605f526ac6f730072a9d3fd8ca2796921eb061df8ace6acca8fb3a0",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "c3049419df943eef4c4c0fe10146c681fc9018e6e741f8f874c3104057872120",
-      "https://www.philibertnet.com/fr/578-precommandes": "01724e69c335c0c7ba1acf27cb3d11c8e24a9aba2c833d295ee052d97e0b9b64",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "64c032eaba2b1c0b5070069d08600d9a9064421c639e90dcd339904c75561a55",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "c2757ef6247ac423c113dffded16e3efbd86f1e07c6579188ec91315cb8bbbd3",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "a8e6aa381e920c0d3ba967684af87978906ab3a0553114c157112e600144c74f"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "315e959f390d8d2aa914db5bffb9e76d3022258fa784b3003a7365b035441c26",
+      "https://www.micromania.fr/c/cartes-precommande": "ed13c01a886b13eeb514bf0ccf0195f8ea52dd00b0cfd4d1b87b6d481b2ea9fe",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "10be440168f403f9b46cf69b494a9f4197ecda00da3da98a339a9b414c14fecc",
+      "https://www.micromania.fr/c/cartespokemon": "7d6e7fd0965af06292a0c1bacac76272e4daab30a7181f36fb1b73c1cd6af56d",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "9373747d696c38b349be3aefcd411a14a1c1c737d1eeb6dbfa4003f9e9879893",
+      "https://www.philibertnet.com/fr/578-precommandes": "cfb73b7a3e30a4a6470a6532cbb916d0a823e385325f3c81f7ed905165e6d417",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "f02db7ae5515627fb584d7a31005ddcc3c3f164efbeab317f6a13d3f5a09d885",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "2fc6de529fb9074fb155b404da02c16c53cfbd30757f2690ecb89d3f6acfad3e",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "baca5b7e1867f991c886003b5c4f843b731434dd49f9bfd4ffaf3ef28216af18"
     }
   }
 }
