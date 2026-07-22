@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "942b0073bd0a66e15f3ca75defcfe4a8e47e933ff27dfe8f83346261168d2387",
+    "store": "Philibert - Précommandes",
+    "priority": "medium",
+    "title": "Voir tout Fermer Jeux de cartes Voir tout Fermer Jeux de cartes Voir tout Meilleures ventes Nouveautés Précommandes À venir Promotions Ventes flash Marketplace Altered Cyberpunk - ",
+    "url": "https://www.philibertnet.com/fr/119-jeux-de-cartes",
+    "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+    "score": 23,
+    "signals": [
+      "booster",
+      "display",
+      "précommande"
+    ],
+    "price": null,
+    "first_seen": "Wed, 22 Jul 2026 07:21:40 GMT"
+  }
+]

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "Wed, 22 Jul 2026 07:21:40 GMT",
+      "id": "942b0073bd0a66e15f3ca75defcfe4a8e47e933ff27dfe8f83346261168d2387",
+      "price": null,
+      "priority": "medium",
+      "score": 23,
+      "signals": [
+        "booster",
+        "display",
+        "précommande"
+      ],
+      "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+      "store": "Philibert - Précommandes",
+      "title": "Voir tout Fermer Jeux de cartes Voir tout Fermer Jeux de cartes Voir tout Meilleures ventes Nouveautés Précommandes À venir Promotions Ventes flash Marketplace Altered Cyberpunk - ",
+      "url": "https://www.philibertnet.com/fr/119-jeux-de-cartes"
+    },
+    {
       "first_seen": "Tue, 21 Jul 2026 07:20:17 GMT",
       "id": "2d5b5085f4e4d590c843cea4fe34d487c463e940261fde666c768e39f708c9cd",
       "price": "29.90 €",
@@ -1099,15 +1115,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "850d799e75673aa556466fa4fd158423d86739e8a62c736fdb934e2cf2f29565",
-      "https://www.micromania.fr/c/cartes-precommande": "654d85b03a4433bc0b756555cb692426409b008ef02a2157b2591473a3366a9f",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "d03e3d38b04d8401e16f34785dc50c3f3f27ce5b258bc4315cf3584243483b0a",
-      "https://www.micromania.fr/c/cartespokemon": "8d04217bbab7a025b92f778da649ef2155011bc473eb3430da256e238eb78e4b",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "c311bf7db017ded388fba266caae51e8c5e67f8b2114f41be6e5eb7fee096d41",
-      "https://www.philibertnet.com/fr/578-precommandes": "6a7a792448bdc17b45e8ef327e227abf1e61b9c6a9e3fbab287c49fdb20c0509",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "807cf7c3a03a3981c0bd6cd3c3e025141ad87f28424f72ff386070ae89c25a32",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "df8ec355662ccd7c40d77f163bd57b5a1816d0059dba75cd2c6038748eddcddd",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "179b1feff99e9fe8188df292e3838b18dee7883ef464c125b3081308402a88e9"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "0d52beb1c9078768b0f41d4906f08dbd5660f77f219a17dfad675f27a64fdf1e",
+      "https://www.micromania.fr/c/cartes-precommande": "5ea70d2e631b692100fef60ede4e0ec19a32f950f6b004bf38aeb59614d04359",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "5551e59131644171c6164670a19d2c38124dd9f63f08881c76f1a254e6248e0a",
+      "https://www.micromania.fr/c/cartespokemon": "8f699e536eef9408e04a5ee68703af7de823e4140e3eea97491d4ee00272a71c",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "071758d5b541964e394221e50c8ab1a4c56f481237c5ab42c0400e1f83e8d685",
+      "https://www.philibertnet.com/fr/578-precommandes": "f9c29035d2626386c696f3d1792ef8af1bff695ebd58168fc987b4e1d64b4b2b",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "4ea617aa5abe6c68e126e91c8a8c80abefff1372ad8cb417764f5cce780d6938",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "818b15f29373dd3f3ef71e19aeed942cf4fcd3abdb920f89e528c45f889436d9",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "9efe75ef852da62abe75e2a27482f03897e37535710b3a173a62502afb2e9465"
     }
   }
 }
