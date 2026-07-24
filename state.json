@@ -1,6 +1,201 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "a3ad41484e13855f62a6eb5f2891fa20e375f0a4c704d10cb7fed20a653b411e",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Jour - Mentali - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659629/mini-tin-30-ans-jour-mentali-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "fd01e486efb7f6d36766d1081b5d85b6ba525a03e8dd7250113ebbc3dec7288c",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pokébox 30 Ans - Nymphali‑ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659625/pokebox-30-ans-nymphali-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "98875cde8e7ca53d3678867641249562be87472df058ea27e208bef06ee45836",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pokébox 30 Ans - Amphinobi‑ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659622/pokebox-30-ans-amphinobi-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "6c5db15ea4dc19d1b247eb6b08643485809f075a17e2b6971268c6935e9c9c3b",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pack d'Avant-Première Stratégies et Combats Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/650367/pack-d-avant-premiere-strategies-et-combats-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "e7679bcf84935273beda3bbbb6a4d2e4bae52ecbe5d486a97a34255c599c867b",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection K.O 30 Ans - Évoli - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659418/collection-k-o-30-ans-evoli-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "6db64d03ba5543a18c5f21e2d380f3114902e3cada83864d05c83dede36ba76b",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection autocollant réajustable 30 Ans - Lucario - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659376/collection-autocollant-reajustable-30-ans-lucario-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "2585102fcb4b1920524440d1030cf4ce8397b39d3b66e286e6eda45ba5eb560b",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection autocollant réajustable 30 Ans - Noadkoko d'Alola - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659371/collection-autocollant-reajustable-30-ans-noadkoko-d-alola-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "2e306812ea57ed26b9fcf4914f255cdf4a823cc06608da0cd7d8bc368865ad82",
+      "price": null,
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret 30 Ans - Amphinobi-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659558/coffret-30-ans-amphinobi-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "466129630a4c9eec637e54c9cbf8e2fad3ed3b5d6690891aa32e33458fd4b521",
+      "price": null,
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret 30 Ans - Nymphali-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659425/coffret-30-ans-nymphali-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "b51f0099249453846c7d828bebf0ac04c1e32e7cf8ea993f4a7a004ab8abb99f",
+      "price": null,
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pack 2 boosters 30 Ans - Évoli - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659377/pack-2-boosters-30-ans-evoli-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "4c4208c091baecbd12acaa7312f4e58f98e6321d3fdcab3bb9e2a3190d50b42f",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection classeur 30 Ans - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659587/coffret-collection-classeur-30-ans-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "ef2719004ce8f371248081c0ede9f511d16036756542e573b502619f9d10fb31",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "etb"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Dresseur d'élite (ETB) 30 Ans - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659570/coffret-dresseur-d-elite-etb-30-ans-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "b06266709d57abe848453ffe4035326ae1364b961caea713b0e5254aa8c1873b",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Poster 30 Ans - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659419/coffret-collection-poster-30-ans-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
+      "id": "69645ca73f7c7ee7a3cff84e1f304390e937efd0cf87ef0af54d94f998cd7597",
+      "price": "74.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "etb",
+        "méga-évolution"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Nuit Noire - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/650372/coffret-dresseur-d-elite-etb-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
       "first_seen": "Fri, 24 Jul 2026 04:31:54 GMT",
       "id": "6ecb332aaa9ae33a926f187180fd2fbdf2b89e9ee3302f965dfe27971f17b482",
       "price": "219.90 €",
@@ -1235,15 +1430,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "4c7f89c1dd7c960a28339ee777c41e89113b9419ba80be739c1bab8b6a2cc41c",
-      "https://www.micromania.fr/c/cartes-precommande": "7300e8ce8940e3db0f17902e0a8e2e2e4075beb2d81e6a4317348755a715c3d0",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "84c779c934170ed633a31a748c840f9f45b0e40e47f49924cc9bff3298f348cf",
-      "https://www.micromania.fr/c/cartespokemon": "a42db7f91e8e22075000988990dbd88163a6bc07a24a7568b5a0f73cbc9e343d",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "22d16c4a0bd243c89ba91c35e940477bc7a7fe9a381ce2b95395725538a239ad",
-      "https://www.philibertnet.com/fr/578-precommandes": "a571779cf3606934ba798e77b4bf95034de5aa7f2ea3bdbefc431271e19c8c34",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "8bafc0668bd0fab54d4cc17e020ea7e23b9d1d3faaa7023bba45547bfa609194",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "a3e88f457034d334b70411dab477c93b6661d52ca2d192a63cb420581473f779",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "a76d88f3cff03b8f1e903a09d0b3cdb59168842f0beefddc3c31e18283e800d9"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "222e6565f0c42668b0a963c883cfd6ace795a6757da714740040893515d633c9",
+      "https://www.micromania.fr/c/cartes-precommande": "b0ed63a70952d0c5b56113f954354f6f4d7b5ec76c66324e6aa38c86d22e6d44",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "e403b63de59eeb6af4aef7d59b50f3d717802a622c9c5fef0bf93337d288030b",
+      "https://www.micromania.fr/c/cartespokemon": "2aea4e68cd0b2acf1d9dc559eca55df5c4b78f63d582aed5038058e0fcf2816d",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "c9c316f4c298f9b04c1af9697cbf2078d309538bbff3a7d32c8156819c6c3e3e",
+      "https://www.philibertnet.com/fr/578-precommandes": "ba6e896f3050667f8a70df23614e9ab61071be26d09288ecbeb66ceebb3c7206",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "e69a7b79c0ab95556e9f6ef183760879bf1fe71d8eb1c9df4245f6735d3cc428",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "122fb309ae4109fafbbce6328b86576a28335b595cf4050c0cb6d8009d00c5ee",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "72afb58ee473fe9682fe146888b14d7aed716bee4a4971cfdf471203e9e7d080"
     }
   }
 }

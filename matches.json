@@ -1,11 +1,11 @@
 [
   {
-    "id": "20d0efa53cd916155ec55e9c987027304d94764d55bdd5d7de1196a8815bf009",
-    "store": "Playin - Booster & Display Pokémon",
+    "id": "69645ca73f7c7ee7a3cff84e1f304390e937efd0cf87ef0af54d94f998cd7597",
+    "store": "Playin - Pokémon",
     "priority": "high",
-    "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Équilibre Parfait - Pokémon FR",
-    "url": "https://www.play-in.com/fr/produit/637211/coffret-dresseur-d-elite-etb-mega-evolution-equilibre-parfait-pokemon-fr",
-    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650372/coffret-dresseur-d-elite-etb-mega-evolution-nuit-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
     "score": 15,
     "signals": [
       "coffret",
@@ -13,22 +13,185 @@
       "méga-évolution"
     ],
     "price": "74.90 €",
-    "first_seen": "Fri, 24 Jul 2026 04:31:54 GMT"
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
   },
   {
-    "id": "6ecb332aaa9ae33a926f187180fd2fbdf2b89e9ee3302f965dfe27971f17b482",
-    "store": "Playin - Booster & Display Pokémon",
+    "id": "b06266709d57abe848453ffe4035326ae1364b961caea713b0e5254aa8c1873b",
+    "store": "Playin - Pokémon",
     "priority": "high",
-    "title": "Display de 36 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
-    "url": "https://www.play-in.com/fr/produit/637208/display-de-36-boosters-mega-evolution-equilibre-parfait-pokemon-fr",
-    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
-    "score": 15,
+    "title": "Coffret Collection Poster 30 Ans - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659419/coffret-collection-poster-30-ans-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
     "signals": [
-      "booster",
-      "display",
+      "coffret",
+      "collection"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "ef2719004ce8f371248081c0ede9f511d16036756542e573b502619f9d10fb31",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret Dresseur d'élite (ETB) 30 Ans - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659570/coffret-dresseur-d-elite-etb-30-ans-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "coffret",
+      "etb"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "4c4208c091baecbd12acaa7312f4e58f98e6321d3fdcab3bb9e2a3190d50b42f",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret Collection classeur 30 Ans - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659587/coffret-collection-classeur-30-ans-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "coffret",
+      "collection"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "b51f0099249453846c7d828bebf0ac04c1e32e7cf8ea993f4a7a004ab8abb99f",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pack 2 boosters 30 Ans - Évoli - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659377/pack-2-boosters-30-ans-evoli-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "466129630a4c9eec637e54c9cbf8e2fad3ed3b5d6690891aa32e33458fd4b521",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret 30 Ans - Nymphali-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659425/coffret-30-ans-nymphali-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "coffret"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "2e306812ea57ed26b9fcf4914f255cdf4a823cc06608da0cd7d8bc368865ad82",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret 30 Ans - Amphinobi-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659558/coffret-30-ans-amphinobi-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "coffret"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "2585102fcb4b1920524440d1030cf4ce8397b39d3b66e286e6eda45ba5eb560b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Collection autocollant réajustable 30 Ans - Noadkoko d'Alola - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659371/collection-autocollant-reajustable-30-ans-noadkoko-d-alola-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
+      "collection"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "6db64d03ba5543a18c5f21e2d380f3114902e3cada83864d05c83dede36ba76b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Collection autocollant réajustable 30 Ans - Lucario - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659376/collection-autocollant-reajustable-30-ans-lucario-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
+      "collection"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "e7679bcf84935273beda3bbbb6a4d2e4bae52ecbe5d486a97a34255c599c867b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Collection K.O 30 Ans - Évoli - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659418/collection-k-o-30-ans-evoli-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
+      "collection"
+    ],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "6c5db15ea4dc19d1b247eb6b08643485809f075a17e2b6971268c6935e9c9c3b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pack d'Avant-Première Stratégies et Combats Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650367/pack-d-avant-premiere-strategies-et-combats-mega-evolution-nuit-noire-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
       "méga-évolution"
     ],
-    "price": "219.90 €",
-    "first_seen": "Fri, 24 Jul 2026 04:31:54 GMT"
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "98875cde8e7ca53d3678867641249562be87472df058ea27e208bef06ee45836",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pokébox 30 Ans - Amphinobi‑ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659622/pokebox-30-ans-amphinobi-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "fd01e486efb7f6d36766d1081b5d85b6ba525a03e8dd7250113ebbc3dec7288c",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pokébox 30 Ans - Nymphali‑ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659625/pokebox-30-ans-nymphali-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
+  },
+  {
+    "id": "a3ad41484e13855f62a6eb5f2891fa20e375f0a4c704d10cb7fed20a653b411e",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Mini Tin 30 Ans - Jour - Mentali - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659629/mini-tin-30-ans-jour-mentali-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT"
   }
 ]
