@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "20d0efa53cd916155ec55e9c987027304d94764d55bdd5d7de1196a8815bf009",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637211/coffret-dresseur-d-elite-etb-mega-evolution-equilibre-parfait-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 15,
+    "signals": [
+      "coffret",
+      "etb",
+      "méga-évolution"
+    ],
+    "price": "74.90 €",
+    "first_seen": "Fri, 24 Jul 2026 04:31:54 GMT"
+  },
+  {
+    "id": "6ecb332aaa9ae33a926f187180fd2fbdf2b89e9ee3302f965dfe27971f17b482",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637208/display-de-36-boosters-mega-evolution-equilibre-parfait-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "219.90 €",
+    "first_seen": "Fri, 24 Jul 2026 04:31:54 GMT"
+  }
+]
