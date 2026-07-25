@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "ff889ccbfd274cf73fd534b078a915db865fe28294e40092f42a3c7f7a324d80",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Coffret Collection Premium Méga‑Zygarde‑ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/647452/coffret-collection-premium-mega-zygarde-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 15,
+    "signals": [
+      "coffret",
+      "collection",
+      "premium"
+    ],
+    "price": "49.90 €",
+    "first_seen": "Sat, 25 Jul 2026 04:28:06 GMT"
+  }
+]

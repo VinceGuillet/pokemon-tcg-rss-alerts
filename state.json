@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 25 Jul 2026 04:28:06 GMT",
+      "id": "ff889ccbfd274cf73fd534b078a915db865fe28294e40092f42a3c7f7a324d80",
+      "price": "49.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Coffret Collection Premium Méga‑Zygarde‑ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/647452/coffret-collection-premium-mega-zygarde-ex-pokemon-fr"
+    },
+    {
       "first_seen": "Fri, 24 Jul 2026 07:17:28 GMT",
       "id": "a3ad41484e13855f62a6eb5f2891fa20e375f0a4c704d10cb7fed20a653b411e",
       "price": null,
@@ -1430,15 +1446,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "3e419314b0a15706b707f173b1388f0269f2afa070d63b9f98becfe4699b3598",
-      "https://www.micromania.fr/c/cartes-precommande": "7574c52530e2044afd0ff07364985130fcba6fd22a1cce910ad1b8d88364a107",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "f0687c5dd13e941bf95eec720fbe7d25af6c5f548cccb4f587906f72f070b475",
-      "https://www.micromania.fr/c/cartespokemon": "8537ca6ea3e01295c54f993fa6c358d6e3c042b719ee57d13331bc77374f3846",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "638faacd7882a58888f37c7d8f3d62774dbdf0ff0d1a759a332f06340fc6e970",
-      "https://www.philibertnet.com/fr/578-precommandes": "dfc9fd94707927626ca58d40841325d57de4b1717038f8f21b443ad9ab052388",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "47c68b3007859e0a9a82ef78ccf7f1349cc6e1038b38d8142a9e43389e8f1bb6",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "a139f38c2a85360136ffbf93130703a593ca5151c1ae391062ae58e93de122fd",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "e9951041314254c86d16cae7361723eda65d34e8322327a396280c0139560914"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "fe070183950dd7e9656b275bad81d5de357c939b73a3c29ec420606cf7699dcf",
+      "https://www.micromania.fr/c/cartes-precommande": "604d495e23143a5e01597884e761f769a5f446127f322d5e14b3c729e99337a1",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "ec48920716bfcbf914efce2f55e30f86ff656320999d56e4ff4a0605f9403e53",
+      "https://www.micromania.fr/c/cartespokemon": "e017245c71a285ab77fe8b14c608fc584a29ab94169232605606b6113e67fb8f",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "2b61fc57623aac0a9bccfff644594d46387f28de536784e8cf9109d65d15c449",
+      "https://www.philibertnet.com/fr/578-precommandes": "0719279513a3fb613899536bdf8545b2fc4c0b7069b37b9d66b1e280f180267e",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "988b875491fb26f76829ad633bb9485512cedf961c88de5cc0976416837cb6a5",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "d2594ffb282d977a4df8d2eff18997b859aea4a7d802e8598b794cd2cf44b065",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "780af067c5595519ee0b9ab0a8fe55833fff8cbd4effa3806631d0b67d49a8fc"
     }
   }
 }
