@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "589d4300df8061106a30bd2ed85a37b523549dd8a7c69901c52e0e883c887198",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Écarlate et Violet : Super Electric Breaker SV8 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/637558/booster-ecarlate-et-violet-super-electric-breaker-sv8-pokemon-ko",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "4.90 €",
+    "first_seen": "Sun, 26 Jul 2026 04:46:44 GMT"
+  }
+]
