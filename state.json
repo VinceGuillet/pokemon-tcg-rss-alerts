@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 01 Aug 2026 03:49:26 GMT",
+      "id": "2c7394a454b9628fa0cb916fcd75c3425b8282488b725e55816c4a3c937bcd3e",
+      "price": "15.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pack 2 boosters Zarude août 2026 - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663245/pack-2-boosters-zarude-aout-2026-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 03:49:26 GMT",
+      "id": "108a4c0ff23136182d66a4556db3033c26ee5a529190c0b4ccef88838e5d91af",
+      "price": "34.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Illustration Premiers Partenaires Série 3 - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663246/coffret-collection-illustration-premiers-partenaires-serie-3-pokemon-fr"
+    },
+    {
       "first_seen": "Fri, 31 Jul 2026 03:48:43 GMT",
       "id": "6601161c1fd0c6f68c9946e0e8803f357d1c2c70cee92945e63d3508dfd5b86d",
       "price": "6.90 €",
@@ -1487,15 +1516,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "a7e909322bfa46516fce8ca8c554ec8907a53d891906c19bdfaddf0219963ab5",
-      "https://www.micromania.fr/c/cartes-precommande": "929c16d104722e423239777ed3f390ebf07bb8fa4b1b9c2712b46e05c3bbd46c",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "4ae8b476e896d06262249460762f310b622664846070a120f60f81dd15ca7163",
-      "https://www.micromania.fr/c/cartespokemon": "cdd8ee3e6a648f21ca237f77b764f3d74aa3dd15d2f56139f63f00de34efa034",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "01f5273d0a622048974bb807e6a9e1e0933bc9f44d5d2b95ca3b2eac597ca798",
-      "https://www.philibertnet.com/fr/578-precommandes": "c01ca72ad15e109fc2f330b21ffecd60dfad5a05a40edcfe91f51ff008e61b12",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "8dcac20a3444383a00dc0278b135988552df3759bc410eaaad298ae619456415",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "d92f1d1e53e34a4e0340dba67bb2aa96e59b89c634eb1656581140fc876bd313",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "242f3372acd37c9958f64025fb7140f071ecaf13bd11df77b57171d1bd0a6dd3"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "2b0dab0cb33ab1142fdae9852e25d864f6f8d3b43d421b87c2ccab4e8914e082",
+      "https://www.micromania.fr/c/cartes-precommande": "81742f6f3db9004a0d787457cd68b53c7f239c0782f24ef4f260927f0b44e386",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "ac69c833c4a3a7929ee8c2adc9b043a359dd2285123cac09cbac51fdfc32941d",
+      "https://www.micromania.fr/c/cartespokemon": "dc7cd17c84062def192f4d2e1f21534c81cada3810a900d728ff4950d88e303c",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "5c2670c072c8c5d8bf3b884134a63de3533fbdb6f980328bd680227fa5801414",
+      "https://www.philibertnet.com/fr/578-precommandes": "b566d31328358affa90a60cee208f10f9d02212f5c523806a79d9eea9f1bbc38",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "a6b52ac3456d00c0d2d1b636ca4166a60beac7d9bdaf83f5892c3fbd3378fc03",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "722f0c57b18f560febd4500c2e166553b3bfc6b8fa3513155808ed1c2b08f7da",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "cb58d2cb2d07b11afe5f3fce5f8f983539ddacbf7de3ecb85c17106bca6f8e33"
     }
   }
 }
