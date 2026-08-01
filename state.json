@@ -1,6 +1,89 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "7c4495396e52e907edbc8a97272b354aef10de7a2feff20a51d987b6bb6f49a7",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Combat 30 ans - Noctali-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659642/deck-combat-30-ans-noctali-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "d57640cbed315898435bae13132ecb205a91e45327ddb9a1308a8a814d227ce6",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Combat 30 Ans - Mentali-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659641/deck-combat-30-ans-mentali-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "9e8eb08225c504516140e0d22521b7aa01d05498466ae05635522c138c8e23f4",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Nuit - Amphinobi - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659640/mini-tin-30-ans-nuit-amphinobi-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "64eb88f3f9098adf6b3ae24c6da4ceffdc1efa0cec5d11f0dbd1e2bf511e12fd",
+      "price": null,
+      "priority": "high",
+      "score": 8,
+      "signals": [
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection Premium Métamorph 30 Ans - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659643/collection-premium-metamorph-30-ans-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "dc290556f649e802e03ab3029409b79373b092427f8e575d350794ec3445dd3b",
+      "price": null,
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Ultra Premium 30 Ans - Soirée (Noctali) - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659645/coffret-collection-ultra-premium-30-ans-soiree-noctali-pokemon-fr"
+    },
+    {
+      "first_seen": "Sat, 01 Aug 2026 06:27:56 GMT",
+      "id": "d5fa0cd47a60cac8a8df48e437319795f9f072e7ec82ea917fb7e28c7f801119",
+      "price": null,
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Ultra Premium 30 Ans - Journée (Mentali) - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659644/coffret-collection-ultra-premium-30-ans-journee-mentali-pokemon-fr"
+    },
+    {
       "first_seen": "Sat, 01 Aug 2026 03:49:26 GMT",
       "id": "2c7394a454b9628fa0cb916fcd75c3425b8282488b725e55816c4a3c937bcd3e",
       "price": "15.90 €",
@@ -1516,15 +1599,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "2b0dab0cb33ab1142fdae9852e25d864f6f8d3b43d421b87c2ccab4e8914e082",
-      "https://www.micromania.fr/c/cartes-precommande": "81742f6f3db9004a0d787457cd68b53c7f239c0782f24ef4f260927f0b44e386",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "ac69c833c4a3a7929ee8c2adc9b043a359dd2285123cac09cbac51fdfc32941d",
-      "https://www.micromania.fr/c/cartespokemon": "dc7cd17c84062def192f4d2e1f21534c81cada3810a900d728ff4950d88e303c",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "5c2670c072c8c5d8bf3b884134a63de3533fbdb6f980328bd680227fa5801414",
-      "https://www.philibertnet.com/fr/578-precommandes": "b566d31328358affa90a60cee208f10f9d02212f5c523806a79d9eea9f1bbc38",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "a6b52ac3456d00c0d2d1b636ca4166a60beac7d9bdaf83f5892c3fbd3378fc03",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "722f0c57b18f560febd4500c2e166553b3bfc6b8fa3513155808ed1c2b08f7da",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "cb58d2cb2d07b11afe5f3fce5f8f983539ddacbf7de3ecb85c17106bca6f8e33"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "d86d05f1e99c4fe2ff2b6d8ef04129a7f4584c9f3056ec13001aa3ab779e5db6",
+      "https://www.micromania.fr/c/cartes-precommande": "7a056454cd010da0f962e49b6f27485687fe88f5312b23c2b1b042af5b5c07d5",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "b7be63189384e42aabc0229815eb935b3ee29a9529e321f59d489e9093edfb60",
+      "https://www.micromania.fr/c/cartespokemon": "18178e2cc460bcf26035cb673c3b56991bb4cbb8689256979f99bc64db5204e5",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "38a597d063f7bf5f0f5ff2255704e0fb3844bbe44ef30366db834207197719bd",
+      "https://www.philibertnet.com/fr/578-precommandes": "8a410494d8398df470ef085990c24ade736b0cf08468651124f0e917412a2e81",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c79531b2724fc5f6922cb8c9294b44e6a955d8bebd0c1418071fb4db8f7020aa",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "0d1ef7046ec4827e3c474dfc0f2cbc07d4fa46979f149c1d0ea9f683c9f17c41",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "cf16bd3ed6af9410e65f969e794cf86826ee9ffd796b1667ba0f5e891987fb1b"
     }
   }
 }
