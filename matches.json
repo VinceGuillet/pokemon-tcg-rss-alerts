@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "de406dca250c3715128d448f6bd05a09c7eeebc975a6cb3622c2c69c96da0168",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Pack 2 boosters Zarude août 2026 - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663245/pack-2-boosters-zarude-aout-2026-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "15.90 €",
+    "first_seen": "Mon, 03 Aug 2026 03:56:00 GMT"
+  },
+  {
+    "id": "82aee788a8e7d60e43166d331a5106992772bf8e881c332cc715c4251d0b8859",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Riley McKay - Flutter Devo Gardevoir - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656382/deck-championnats-du-monde-2025-riley-mckay-flutter-devo-gardevoir-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Mon, 03 Aug 2026 03:56:00 GMT"
+  },
+  {
+    "id": "c03db48562024c199830686ed4d33ecba0a434f1d2263eb73d8b7aa38e62c162",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Yuya Okita - JP Raging Bolt - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656386/deck-championnats-du-monde-2025-yuya-okita-jp-raging-bolt-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Mon, 03 Aug 2026 03:56:00 GMT"
+  }
+]
