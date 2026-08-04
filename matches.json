@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "79720204462e44252eaa54f2cab93922d840f6a4a89f689b8bb24db9a4875e34",
+    "store": "Philibert - Précommandes",
+    "priority": "medium",
+    "title": "Pokémon : Collection Illustration Premiers Partenaires – Série 3",
+    "url": "https://www.philibertnet.com/fr/pokemon/180044-pokemon-collection-illustration-premiers-partenaires-serie-3-196214141612.html",
+    "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+    "score": 13,
+    "signals": [
+      "booster",
+      "coffret",
+      "collection"
+    ],
+    "price": "21.95 €",
+    "first_seen": "Tue, 04 Aug 2026 15:00:38 GMT"
+  },
+  {
+    "id": "23f6e71194dd93def0ef0a606284cd3b8eba73c7f99227acefb77b97f750be24",
+    "store": "Philibert - Précommandes",
+    "priority": "medium",
+    "title": "Pokémon : Pack 2 boosters Zarude",
+    "url": "https://www.philibertnet.com/fr/pokemon/180045-pokemon-pack-2-boosters-zarude-196214141926.html",
+    "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+    "score": 10,
+    "signals": [
+      "booster",
+      "collection"
+    ],
+    "price": "12.95 €",
+    "first_seen": "Tue, 04 Aug 2026 15:00:38 GMT"
+  }
+]
