@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT",
+      "id": "01defcfa774c8a8a95bcfd8cf577325f487a382320e63b9c830d73c82521ad5e",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Jour - Lokhlass - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659634/mini-tin-30-ans-jour-lokhlass-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT",
+      "id": "4061fd5a07f5fdd68f76d3c3f193acca65f84fee14b19bd62179ddeea2b40792",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Jour - Mew - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659633/mini-tin-30-ans-jour-mew-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT",
+      "id": "36076b8901c6a5b15275187ff2ff2416cef6c6eeb2312c0ef400bf5f5f81c8f3",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Jour - Pikachu - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659632/mini-tin-30-ans-jour-pikachu-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 07 Aug 2026 05:15:27 GMT",
+      "id": "a0e3c0a35202b626a655a7368be358dcaf31015f4ff36ce89f6ce6523cab1ae9",
+      "price": "15.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "store": "Playin - Prochaines sorties",
+      "title": "Pack 2 boosters Zarude août 2026 - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663245/pack-2-boosters-zarude-aout-2026-pokemon-fr"
+    },
+    {
       "first_seen": "Thu, 06 Aug 2026 07:25:06 GMT",
       "id": "a57ff682db4cf65c016d5c67d13000f702cfa89614a0408c74599a77bc4d32aa",
       "price": null,
@@ -1724,15 +1774,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "1a4112b2e1b55b7d98b706d9ce5ce5e7afa4c7c3369f637787e4b2d308e6b060",
-      "https://www.micromania.fr/c/cartes-precommande": "6b1ef167d7bad2b7e3ba3fb99d43e18e55183efcd72d9de35353cd209d117dac",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "587ea1b73e1761ce4b440d38768feecb58b4889a3a79aa8b9495456aff0e226b",
-      "https://www.micromania.fr/c/cartespokemon": "e99531f997511d2410b349c09e0e4baa814f292f71ba5bc45a8686de6279a5dd",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "41c2912925c0bbbf2e3d2d9a8bbfa9cda93fe57fe370007e51959ad94db571eb",
-      "https://www.philibertnet.com/fr/578-precommandes": "1c93bb0910fd8b417d03b5233be58152c6d05c0d9e6322e3198e058de069c9c3",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "346c1851629372fa0321620077300494e5d074057dd26d301a526a2df0890aa1",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "1062bdae6dde6dd388c72b2d8d754f83660598c0901c0dc9b06fe064841b4a41",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "2a7ccb6c447d4aaba31ec79b04a11aa82a21d61a61f9cd2baf286b57c957753e"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "72abe05ce209b6c385aae8cd28640881d3748599fc3a344af7bb973f775cdee5",
+      "https://www.micromania.fr/c/cartes-precommande": "1070ae9e67be4770878dc9ba23543e8dc2b7512b13f82b99eefc77e4f51ad4c9",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "c0b90a22d4c383952a53f86900ba8ccfbf72e2e5d25e6819a8c4e7f3275fab8b",
+      "https://www.micromania.fr/c/cartespokemon": "9ebe43931e260e907159c0e841f66d17cecf9324c4a6b771dfa03735a8fce28c",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "c5f08f9a67cf069d4b4cbd537e7b0043f503815f36838327b4aaa0376ddd46a4",
+      "https://www.philibertnet.com/fr/578-precommandes": "0247b6b3ff230e1e4384ea14b77523a6805f98147a5e201a7747b3647abdbf16",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "148eead7f8a1689c3fd7a6854ed861f2bcbc6779a7238926a4ff2d391197d8e0",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "05b833323261051161a225c4f99a384ef7ec2b64b0f2a8b3d68a34a18a66477e",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "ef8a7467154f4fa1a040f92f58ae0d7478aee02f8836eb5017d022da6dc327ef"
     }
   }
 }

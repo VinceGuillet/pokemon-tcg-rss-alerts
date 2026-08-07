@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "a0e3c0a35202b626a655a7368be358dcaf31015f4ff36ce89f6ce6523cab1ae9",
+    "store": "Playin - Prochaines sorties",
+    "priority": "high",
+    "title": "Pack 2 boosters Zarude août 2026 - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663245/pack-2-boosters-zarude-aout-2026-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "15.90 €",
+    "first_seen": "Fri, 07 Aug 2026 05:15:27 GMT"
+  },
+  {
+    "id": "36076b8901c6a5b15275187ff2ff2416cef6c6eeb2312c0ef400bf5f5f81c8f3",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Mini Tin 30 Ans - Jour - Pikachu - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659632/mini-tin-30-ans-jour-pikachu-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT"
+  },
+  {
+    "id": "4061fd5a07f5fdd68f76d3c3f193acca65f84fee14b19bd62179ddeea2b40792",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Mini Tin 30 Ans - Jour - Mew - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659633/mini-tin-30-ans-jour-mew-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT"
+  },
+  {
+    "id": "01defcfa774c8a8a95bcfd8cf577325f487a382320e63b9c830d73c82521ad5e",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Mini Tin 30 Ans - Jour - Lokhlass - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/659634/mini-tin-30-ans-jour-lokhlass-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": null,
+    "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT"
+  }
+]
