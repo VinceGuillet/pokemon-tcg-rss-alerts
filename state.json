@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "Mon, 17 Aug 2026 14:02:13 GMT",
+      "id": "09c25d6f0401fe750c5b978c5c35fe2e923f22ef020aeb2540f2b954e91a989a",
+      "price": "54.90 €",
+      "priority": "medium",
+      "score": 13,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Rupture Pokémon Collection Premium Carchacrok‑ex de... Pokémon Collection Premium Carchacrok‑ex de Cynthia . Ce coffret contient 6... https://schema.org/OutOfSt",
+      "url": "https://www.ludifolie.com/22422-pokemon-collection-premium-carchacrokex-de-cynthia.html"
+    },
+    {
       "first_seen": "Fri, 07 Aug 2026 05:15:30 GMT",
       "id": "01defcfa774c8a8a95bcfd8cf577325f487a382320e63b9c830d73c82521ad5e",
       "price": null,
@@ -1774,12 +1790,12 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "df99a41430fb12e21e91c8f863123154edf0170ce450dfc4f8de36a9423665bc",
-      "https://www.micromania.fr/c/cartes-precommande": "2e91973bfa16b10c2d59e059cd18f2f4edccffeaac69e42734297b135dcae551",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "a3c2984daed26bfdebec984b1187b8d46e78c11b7715bfdb9ea0a088a439cbbf",
-      "https://www.micromania.fr/c/cartespokemon": "7b93f52b1e6166b04c739430a591cbb8ad8e7ed86b99f061414a85ef2f384e24",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "3050c1742bcaa5928347ce676dba261a27fee8a964a2849763877cd4f4b700fc",
-      "https://www.philibertnet.com/fr/578-precommandes": "e936a4725c526f07c92d66aa49710db20f723d98c15d29eb87b4e164b9de1660",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "6064c883b4d496d436fc36e0393b5113cfcf98485f3ae8d850fc2b535e8684d3",
+      "https://www.micromania.fr/c/cartes-precommande": "e9e5014fc1171743facc4992aa7d9ac4e4df7ae2ccc2551c84e849b8bada3efe",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "f22f61d970526637a1fe6a94e8bea4ada2d61cd21b8cae7d74035bc3dbccbe85",
+      "https://www.micromania.fr/c/cartespokemon": "f5154408aaa2d78566db51c81aa3538fac06e121d747de01f3f5f1dcc48bd2e0",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "20639ded292204b426625f84c29dc7b4ebeb4dc0345318b5a6228ccff88a6cd1",
+      "https://www.philibertnet.com/fr/578-precommandes": "8a3ea47ff7aadf0cdf70b945b43a7656170da8722c6498a8f8dc260c10e373bc",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "3f31fed48be2205160f43f173a98c461654e871d6ab91f33b0c29a51f1093e17",
       "https://www.play-in.com/fr/gamme/3/pokemon": "4a678c1f5e665643d649925a2404dfa83290cfbfc2ba845c0afe498630a5e92b",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "cd81627292c655b27e5bbac8d673ece87c3fd53e8e8b58dbd3d72a83d062cced"
