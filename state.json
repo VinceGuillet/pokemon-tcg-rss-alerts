@@ -1,6 +1,91 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT",
+      "id": "81a76cd09d48e7f2479cb6c7dce79536d65d5bc5bb20fccd6d611804e9456c30",
+      "price": "4.50 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Mega Storm Emeralda M6 - Pokémon KO",
+      "url": "https://www.play-in.com/fr/produit/667987/booster-mega-storm-emeralda-m6-pokemon-ko"
+    },
+    {
+      "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT",
+      "id": "dad483ab49a91075b5ae5455cce4a6187d13f93db20b24032396402a0c998d59",
+      "price": "229.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Boite de 36 boosters Écarlate et Violet : Flammes Obsidiennes - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/495211/boite-de-36-boosters-ecarlate-et-violet-flammes-obsidiennes-pokemon-fr"
+    },
+    {
+      "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT",
+      "id": "9928920107f80c54defb75fcf8b7cb3eb19143adf0a5e6d629123b2c0ad52972",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster 151 Vol 1 Journey - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660839/booster-151-vol-1-journey-pokemon-cn"
+    },
+    {
+      "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT",
+      "id": "8851369d4927a984009675b1cd7b1b4b13f0171178b723f8cc467ad9f14994d6",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster 151 Vol 2 Hope - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660795/booster-151-vol-2-hope-pokemon-cn"
+    },
+    {
+      "first_seen": "Tue, 25 Aug 2026 13:27:38 GMT",
+      "id": "15d778aa3ef92ddc631e102d04a13efe77bfc0ad15f3c3cf96e8315d85473a81",
+      "price": "4.50 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Mega Storm Emeralda M6 - Pokémon KO",
+      "url": "https://www.play-in.com/fr/produit/667987/booster-mega-storm-emeralda-m6-pokemon-ko"
+    },
+    {
+      "first_seen": "Tue, 25 Aug 2026 13:27:38 GMT",
+      "id": "9ee8d23c132f37aaff7118c4ebc15feadd5992ee16d9f0f18c3c229931945c70",
+      "price": "99.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display scellé de 30 boosters Mega Storm Emeralda M6 - Pokémon KO",
+      "url": "https://www.play-in.com/fr/produit/667986/display-scelle-de-30-boosters-mega-storm-emeralda-m6-pokemon-ko"
+    },
+    {
       "first_seen": "Mon, 17 Aug 2026 14:02:13 GMT",
       "id": "09c25d6f0401fe750c5b978c5c35fe2e923f22ef020aeb2540f2b954e91a989a",
       "price": "54.90 €",
@@ -1790,15 +1875,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "f56a9d9d7ee9c4dee9164d44ca2615645121c572dd35b583a80dce2271cb8e4e",
-      "https://www.micromania.fr/c/cartes-precommande": "ba20bff6af079900379722c38239cb02433a4716d08d6d2f184c16ec4947a1b1",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "2d8e708da5e18ec449fa735628dcad984070fd436430b964a7b875b85779f359",
-      "https://www.micromania.fr/c/cartespokemon": "d74fc601e6228ec44f39c21a62808d0540403d77bdecece0f9782686dfba5e9d",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "22783a721dca5da4b75a6a0c4e20bf39570ad9ae5d5ac5df40c224c1d36bb77e",
-      "https://www.philibertnet.com/fr/578-precommandes": "7122a4f9cdede9e42544fd1c59c3a7ae1c17ae18ab6e4a040873296503d5acb1",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "3f31fed48be2205160f43f173a98c461654e871d6ab91f33b0c29a51f1093e17",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "4a678c1f5e665643d649925a2404dfa83290cfbfc2ba845c0afe498630a5e92b",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "cd81627292c655b27e5bbac8d673ece87c3fd53e8e8b58dbd3d72a83d062cced"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "f05e3d1e2a44f278d9ef17b10e2bb890250e3ef71d6ccd5b6b8a80dc7f57ee9f",
+      "https://www.micromania.fr/c/cartes-precommande": "a06fb7869614913242f41515f326d330016cec85433b950648944f3ca0aec97a",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "05ae535b79c30e65bafc411346ef478e1afc65271b19ba906331db3f3f165939",
+      "https://www.micromania.fr/c/cartespokemon": "8170e20101dd051233cc723246b50f2e0ad5a9bdc724633b3e6bd8fa2281581a",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "2cb8a20bfb83355c1bf872b2575dd0013a1712b1b62d10df3fcfbb43a469ed22",
+      "https://www.philibertnet.com/fr/578-precommandes": "7a0d0451f054e397776bc9da4673e8f1a9e60da0f4efb3a88b3328ce4d4d5741",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "67b9ffc1e0d663b5d5f73368ae4daec2364dc763f8961da0ad7b6075edb2081c",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "eb6446e6bdb2e14ef1041dd07a44cd815930027e6f558c21bf193b1ac449cfe6",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "bb7f187db04d3a9f9a9f5a64bafdc259f94d936ec9caabb20363f678b33b312b"
     }
   }
 }

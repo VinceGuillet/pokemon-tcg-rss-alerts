@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "9ee8d23c132f37aaff7118c4ebc15feadd5992ee16d9f0f18c3c229931945c70",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display scellé de 30 boosters Mega Storm Emeralda M6 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/667986/display-scelle-de-30-boosters-mega-storm-emeralda-m6-pokemon-ko",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "display"
+    ],
+    "price": "99.90 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:38 GMT"
+  },
+  {
+    "id": "15d778aa3ef92ddc631e102d04a13efe77bfc0ad15f3c3cf96e8315d85473a81",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Mega Storm Emeralda M6 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/667987/booster-mega-storm-emeralda-m6-pokemon-ko",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "4.50 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:38 GMT"
+  },
+  {
+    "id": "8851369d4927a984009675b1cd7b1b4b13f0171178b723f8cc467ad9f14994d6",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 2 Hope - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/660795/booster-151-vol-2-hope-pokemon-cn",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT"
+  },
+  {
+    "id": "9928920107f80c54defb75fcf8b7cb3eb19143adf0a5e6d629123b2c0ad52972",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 1 Journey - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/660839/booster-151-vol-1-journey-pokemon-cn",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT"
+  },
+  {
+    "id": "dad483ab49a91075b5ae5455cce4a6187d13f93db20b24032396402a0c998d59",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Boite de 36 boosters Écarlate et Violet : Flammes Obsidiennes - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/495211/boite-de-36-boosters-ecarlate-et-violet-flammes-obsidiennes-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "229.90 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT"
+  },
+  {
+    "id": "81a76cd09d48e7f2479cb6c7dce79536d65d5bc5bb20fccd6d611804e9456c30",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Mega Storm Emeralda M6 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/667987/booster-mega-storm-emeralda-m6-pokemon-ko",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "4.50 €",
+    "first_seen": "Tue, 25 Aug 2026 13:27:41 GMT"
+  }
+]
