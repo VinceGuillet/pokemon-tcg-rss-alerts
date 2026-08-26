@@ -1,1 +1,307 @@
-[]
+[
+  {
+    "id": "481e013f802833a7a9c39976139c1beca49b85f1e159993e50368390b4d6a368",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret Collection Premium Méga-Amphinobi-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656526/coffret-collection-premium-pokemon-mega-amphinobi-ex-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "coffret",
+      "collection",
+      "premium"
+    ],
+    "price": "49.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "ddc54e21ae7538c94bea11d219a157389965ce759c9dba5ea15aac56653f63ae",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "229.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "0587b4af2d3f98656d06633b30ca17b6b49b416195480e4092ee8e6b1da3e0a0",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650372/coffret-dresseur-d-elite-etb-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "coffret",
+      "etb",
+      "méga-évolution"
+    ],
+    "price": "74.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "5a97046336e1694b2ad60af09de9351591ef0b2de0fa32a057017494d03a2bf5",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Bundle 6 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650373/bundle-6-boosters-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "bundle",
+      "méga-évolution"
+    ],
+    "price": "39.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "be68084fd05081e0c754864684111aaa735be2e779a0e61757f8490e73a09571",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Coffret Dresseur d'élite (ETB) Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637211/coffret-dresseur-d-elite-etb-pokemon-equilibre-parfait-me3-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "coffret",
+      "etb",
+      "méga-évolution"
+    ],
+    "price": "74.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "50abf0910fae61a3df624d5b0cf61ad2716c4929cca387a91268a7183c2cbcdf",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 36 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637208/display-de-36-boosters-pokemon-equilibre-parfait-me3-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "display",
+      "méga-évolution"
+    ],
+    "price": "219.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "94788da1043e525d7c958e62d7972352df5c84c05f0232f4f3b05d0ecbd6fcde",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Bundle 6 boosters Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637216/bundle-6-boosters-pokemon-equilibre-parfait-me3-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 15,
+    "signals": [
+      "booster",
+      "bundle",
+      "méga-évolution"
+    ],
+    "price": "39.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "87b585b3af3dc0fa78d19e7e6ee2314b51f3b149c14a40ac2c93983b76c883b8",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display scellé de 30 boosters Mega Storm Emeralda M6 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/667986/display-de-30-boosters-pokemon-mega-storm-emeralda-m6-ko",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "display"
+    ],
+    "price": "99.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "5e0ece3c68de4a706ae9ca6c13980187a6b1bbd1af941c7dfe0414afa5d33bc9",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650368/booster-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "d362ae032b154493eb35e52cd1866b5ee516ef0824ea6e18a1c40477dec7e5ed",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Blister Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/658001/booster-blister-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "7.50 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "1ce2645183cb334227599b7b18f816a5be13e7d13ba972f10b8fc154925121ed",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/637207/booster-pokemon-equilibre-parfait-me3-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "20b3db6a2bf11c2ca1bbb387bb7a097d273d07fa5fffc002a49d407ea444169f",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster blister Méga-Évolution – Équilibre Parfait - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/667142/booster-blister-pokemon-equilibre-parfait-me3-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "méga-évolution"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "70aeaeed7aed34edd14ffb05a0fdffbe26a20d2bb001ee18e7c67f64f08c39bb",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Mega Storm Emeralda M6 - Pokémon KO",
+    "url": "https://www.play-in.com/fr/produit/667987/booster-pokemon-mega-storm-emeralda-m6-ko",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "4.50 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "efdde75876b0afb45b1dfa82463f52f6f2bc8fdb31f306345a166e2b1692321f",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pack 2 boosters Zarude août 2026 - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663245/duopack-pokemon-zarude-aout-2026-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "15.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "f0e1a86016cd7665ac08a24043e1ff97d0ab99fa546773ef1d5356cd5ff87512",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster Écarlate et Violet : Foudre Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/653587/booster-pokemon-foudre-noire-ev10-5b-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "11.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "b19f9904c2954065e0d01c804d10dc49f78f26272efb6d6ef5275756e36a7f8c",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Tripack Méga-Évolution – Nuit Noire - Opermine - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650371/tripack-pokemon-nuit-noire-me5-opermine-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
+      "méga-évolution"
+    ],
+    "price": "19.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "9e709d6767375f9b7c327034f401fbbe5efe36ade5ef68ac8fa9c8e64dca406a",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pack d'Avant-Première Stratégies et Combats Méga-Évolution – Nuit Noire - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/650367/pack-d-avant-premiere-strategies-et-combats-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 5,
+    "signals": [
+      "méga-évolution"
+    ],
+    "price": null,
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "41274211df5ee3f670c2b36491fbfa68145ce8e067ac371127f002a7a8fc72b7",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Liao Fu Guan - Joltdengo - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656385/deck-championnats-du-monde-pokemon-2025-liao-fu-guan-joltdengo-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "32a45b528a509e6e648011e52b47846f5b6933cae17e5728bf03a3922740dbde",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Yuya Okita - JP Raging Bolt - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656386/deck-championnats-du-monde-pokemon-2025-yuya-okita-raging-bolt-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "8876890ab5d8470a8f65acfe0a633a2dc26ad966574a34898ce5700daa224c60",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Jose Cruz Galindo-Resendiz - Pult Bomb - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656387/deck-championnats-du-monde-pokemon2025-jose-cruz-galindo-resendiz-pult-bomb-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  },
+  {
+    "id": "9f1f0de49d4af96a81e7f664ae887b7180395cfd9fe81733f293ffec4e624cc7",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Deck Championnats du Monde 2025 : Riley McKay - Flutter Devo Gardevoir - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/656382/deck-championnats-du-monde-pokemon-2025-riley-mckay-flutter-devo-gardevoir-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Wed, 26 Aug 2026 11:01:03 GMT"
+  }
+]
