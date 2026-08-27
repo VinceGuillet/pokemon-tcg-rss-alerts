@@ -1,31 +1,118 @@
 [
   {
-    "id": "5b96bae7b3ebf32e49b212069dcd8fd68d74b6812fddd317789e6b9da6d74dc5",
-    "store": "Playin - Prochaines sorties",
+    "id": "463bb0db22b94609b7045bf974493d58fa60a096f9eb75016ed13596c25aa383",
+    "store": "Playin - Pokémon",
     "priority": "high",
-    "title": "Display scellé de 30 boosters Mega Storm Emeralda M6 - Pokémon KO",
-    "url": "https://www.play-in.com/fr/produit/667986/display-de-30-boosters-pokemon-mega-storm-emeralda-m6-ko",
-    "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+    "title": "Display de 15 boosters 151 Vol 3 Surprise - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/662445/display-de-15-boosters-pokemon-151-vol-3-surprise-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
     "score": 12,
     "signals": [
       "booster",
       "display"
     ],
-    "price": "99.90 €",
-    "first_seen": "Thu, 27 Aug 2026 02:55:16 GMT"
+    "price": "109.00 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
   },
   {
-    "id": "238a383f252bb92592bbeaaf07409f4eb1320c02c9f58f12950fe6eaec87231d",
-    "store": "Ludifolie - Recherche Pokémon",
-    "priority": "medium",
-    "title": "- 10,00 € PROMO Pokemon ME03 - Coffret Dresseur d’Elite -... Le Pokémon ME03 - Coffret Dresseur d’Elite Equilibre Parfait contient 9... https://schema.org/InSto",
-    "url": "https://www.ludifolie.com/24240-pokemon-me03-coffret-dresseur-delite-equilibre-parfait.html",
-    "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
-    "score": 7,
+    "id": "7585848583c9325a745d7b09bf5a3efc20f0e6f8f32ac59fa218b1091e0aae73",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 15 boosters 151 Vol 1 Journey - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/662298/display-de-15-boosters-pokemon-151-vol-1-journey-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
     "signals": [
-      "coffret"
+      "booster",
+      "display"
     ],
-    "price": "10.00 €",
-    "first_seen": "Thu, 27 Aug 2026 02:55:32 GMT"
+    "price": "89.00 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "a9de5379f69cd2a65ebe6288bf152ec7f786bf0d889a3b52f738cff4a6137e5e",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 15 boosters 151 Vol 2 Hope- Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/662301/display-de-15-boosters-pokemon-151-vol-2-hope-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "display"
+    ],
+    "price": "89.00 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "97b3d8eb270bb70bae00376e30d7a1b00c8271c03d4cfa2845046dfb469fc45b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Display de 15 boosters 151 Vol 4 Gathering - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/662446/display-de-15-boosters-pokemon-151-vol-4-gathering-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 12,
+    "signals": [
+      "booster",
+      "display"
+    ],
+    "price": "89.00 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "2248a711e41a81f0617d01bc2003308b3f319ff7cf1ab6e990963f2f7cd6e656",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 3 Surprise - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/646651/booster-pokemon-151-vol-3-surprise-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "7.90 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "95041bea106e15c2f1ce012789495f6d33f51781fb548a9d30181ee1db4ba7d2",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 2 Hope - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/660795/booster-pokemon-151-vol-2-hope-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "275450e1b9fea197afcb26222e162c74eb91f1fa594b3c54b6b4653de8602cb5",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 1 Journey - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/660839/booster-pokemon-151-vol-1-journey-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
+  },
+  {
+    "id": "7c4195cef6dc7dc4c416298f964c0b955988954364fcba16827374bcac60c2e3",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Booster 151 Vol 4 Gathering - Pokémon CN",
+    "url": "https://www.play-in.com/fr/produit/660868/booster-pokemon-151-vol-4-gathering-cn",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT"
   }
 ]

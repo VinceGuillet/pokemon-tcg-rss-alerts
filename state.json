@@ -1,6 +1,122 @@
 {
   "items": [
     {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "7c4195cef6dc7dc4c416298f964c0b955988954364fcba16827374bcac60c2e3",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster 151 Vol 4 Gathering - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660868/booster-pokemon-151-vol-4-gathering-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "275450e1b9fea197afcb26222e162c74eb91f1fa594b3c54b6b4653de8602cb5",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster 151 Vol 1 Journey - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660839/booster-pokemon-151-vol-1-journey-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "95041bea106e15c2f1ce012789495f6d33f51781fb548a9d30181ee1db4ba7d2",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster 151 Vol 2 Hope - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/660795/booster-pokemon-151-vol-2-hope-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "2248a711e41a81f0617d01bc2003308b3f319ff7cf1ab6e990963f2f7cd6e656",
+      "price": "7.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster 151 Vol 3 Surprise - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/646651/booster-pokemon-151-vol-3-surprise-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "97b3d8eb270bb70bae00376e30d7a1b00c8271c03d4cfa2845046dfb469fc45b",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters 151 Vol 4 Gathering - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/662446/display-de-15-boosters-pokemon-151-vol-4-gathering-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "a9de5379f69cd2a65ebe6288bf152ec7f786bf0d889a3b52f738cff4a6137e5e",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters 151 Vol 2 Hope- Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/662301/display-de-15-boosters-pokemon-151-vol-2-hope-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "7585848583c9325a745d7b09bf5a3efc20f0e6f8f32ac59fa218b1091e0aae73",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters 151 Vol 1 Journey - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/662298/display-de-15-boosters-pokemon-151-vol-1-journey-cn"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 13:47:44 GMT",
+      "id": "463bb0db22b94609b7045bf974493d58fa60a096f9eb75016ed13596c25aa383",
+      "price": "109.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters 151 Vol 3 Surprise - Pokémon CN",
+      "url": "https://www.play-in.com/fr/produit/662445/display-de-15-boosters-pokemon-151-vol-3-surprise-cn"
+    },
+    {
       "first_seen": "Thu, 27 Aug 2026 02:55:32 GMT",
       "id": "238a383f252bb92592bbeaaf07409f4eb1320c02c9f58f12950fe6eaec87231d",
       "price": "10.00 €",
@@ -2653,15 +2769,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "25d66e0b641379f948712720c5353e545b56fc3edd4689335218f1c4f978d569",
-      "https://www.micromania.fr/c/cartes-precommande": "5ce228e134f0b325d752cd9c12b877bbf56b9075022fadfeb02d5cf1a8f22260",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "7685ec6213c38a1739a7e002ead48b0798792c4c2a44b2da44c44e5deebcb6c8",
-      "https://www.micromania.fr/c/cartespokemon": "b70ed9aa3857fb17e9f36ae97819db1371dd2dd6c6b7e8cabc45cf5344215813",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "324239bf747d31a46cb34b517384c7916e260d1165c548dafd3b459739e42631",
-      "https://www.philibertnet.com/fr/578-precommandes": "45e253d289736d1f413a2d7cdace2a54f7fd3b2cc6b0179259fd736f4607f867",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c3d7f697091ce98bc5be39672603a2cab8ad4786c1c6165843b6e2f1a4cf7b56",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "4bf6d6636e0d6da987abf8c0fc406d67409d36b5926b4d195717f34ef41301a5",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "b64da370dd49812a2557442da7ee40e6f4e6f680b6981d9f164a8e462986a3bd"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "796f5a3b80c34e157f1e3163d3472b6f8f01de6b6e04089208dcdce4807d906a",
+      "https://www.micromania.fr/c/cartes-precommande": "1dab63fb081603fed9b8032233e3809b31ec9869eb64bcbd2140dec138ad932a",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "82a83017784a07141f0b23a87f3f0a14596232fe605a18fe334a1f169ca86749",
+      "https://www.micromania.fr/c/cartespokemon": "2424b7687bb7dc4e3c85d1719758e320c6f5302c9719251d9f784617681a8df8",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "35a64c82d67943c944c28a398b06930b94456c03f2354ba1ef50b3aacbbddc54",
+      "https://www.philibertnet.com/fr/578-precommandes": "fc66e79d463e69e6ffc499c3a848fa0562e6a7cae2749915a86a97b64ba272d8",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "0c478611ca4ba53af658d6dc42aee1a9a1bda421d9681d861b3a757cef23aa31",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "6f2509d94b38ffb315d6e5bfdd8f42409b39f45c88da5ec583f7a47bcbe5ab98",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f09340b91cfa8caede05fb3d20441af1cc1ed379c0850430ea259b40d0459248"
     }
   }
 }
