@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "first_seen": "Thu, 27 Aug 2026 02:55:32 GMT",
+      "id": "238a383f252bb92592bbeaaf07409f4eb1320c02c9f58f12950fe6eaec87231d",
+      "price": "10.00 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "- 10,00 € PROMO Pokemon ME03 - Coffret Dresseur d’Elite -... Le Pokémon ME03 - Coffret Dresseur d’Elite Equilibre Parfait contient 9... https://schema.org/InSto",
+      "url": "https://www.ludifolie.com/24240-pokemon-me03-coffret-dresseur-delite-equilibre-parfait.html"
+    },
+    {
+      "first_seen": "Thu, 27 Aug 2026 02:55:16 GMT",
+      "id": "5b96bae7b3ebf32e49b212069dcd8fd68d74b6812fddd317789e6b9da6d74dc5",
+      "price": "99.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "store": "Playin - Prochaines sorties",
+      "title": "Display scellé de 30 boosters Mega Storm Emeralda M6 - Pokémon KO",
+      "url": "https://www.play-in.com/fr/produit/667986/display-de-30-boosters-pokemon-mega-storm-emeralda-m6-ko"
+    },
+    {
       "first_seen": "Wed, 26 Aug 2026 12:17:48 GMT",
       "id": "33574c67e6ccaa945f68872bb26adcce7d1dcfacd5e0afd857f221a74934529c",
       "price": null,
@@ -2624,15 +2653,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "9864bf76a0d23d5fbd9ad35205597d160ab82b9eb788d21ec54e2c38850c5045",
-      "https://www.micromania.fr/c/cartes-precommande": "0cd582ba57a6670c9c62e1ec42b27e763d3d959470293cab2c0bdbb0e685c01f",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "84ee744b83fae7f18571db297db1dce44893b76d43ff39a5eccf619a350ca5be",
-      "https://www.micromania.fr/c/cartespokemon": "c0632628cf1b48ef8d6412eecef83af80a18d9d6e1a624de26b08782549167b2",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "b256582b36d2fb58497286d487b84b88758dd38b23bc131478ffe6d7cb5a2ee6",
-      "https://www.philibertnet.com/fr/578-precommandes": "e6034931068dfd58a8b0543850a2c8c5ff5941c34b02755840833ced4edbfeb7",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "4dc8b44aef842ed3618667e304ae5ede98f630f66d161d46844dd8dd091461a4",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "8c9bdab9f0e22aa569dc05b95a64769a794fc647c1f77040c5021a9b42aac61f",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "ccdebd065acbc57c952323804921afc0c703f91a026264b8c67c4513a10a812d"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "25d66e0b641379f948712720c5353e545b56fc3edd4689335218f1c4f978d569",
+      "https://www.micromania.fr/c/cartes-precommande": "5ce228e134f0b325d752cd9c12b877bbf56b9075022fadfeb02d5cf1a8f22260",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "7685ec6213c38a1739a7e002ead48b0798792c4c2a44b2da44c44e5deebcb6c8",
+      "https://www.micromania.fr/c/cartespokemon": "b70ed9aa3857fb17e9f36ae97819db1371dd2dd6c6b7e8cabc45cf5344215813",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "324239bf747d31a46cb34b517384c7916e260d1165c548dafd3b459739e42631",
+      "https://www.philibertnet.com/fr/578-precommandes": "45e253d289736d1f413a2d7cdace2a54f7fd3b2cc6b0179259fd736f4607f867",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c3d7f697091ce98bc5be39672603a2cab8ad4786c1c6165843b6e2f1a4cf7b56",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "4bf6d6636e0d6da987abf8c0fc406d67409d36b5926b4d195717f34ef41301a5",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "b64da370dd49812a2557442da7ee40e6f4e6f680b6981d9f164a8e462986a3bd"
     }
   }
 }
