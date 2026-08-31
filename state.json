@@ -1,6 +1,730 @@
 {
   "items": [
     {
+      "first_seen": "Mon, 31 Aug 2026 19:15:40 GMT",
+      "id": "e7932f377f1714ceb946cb37bb6222b59f1a5f1c6fde22e476fee4b1e819718b",
+      "price": "55.92 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "-20% PROMO Pokemon ME03 - Coffret Dresseur d’Elite -... Le Pokémon ME03 - Coffret Dresseur d’Elite Equilibre Parfait contient 9... https://schema.org/InStock 55",
+      "url": "https://www.ludifolie.com/24240-pokemon-me03-coffret-dresseur-delite-equilibre-parfait.html"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "39bed099d5887dc62f26b85b5f394471f3827f30dc5c7c8f05711dbeb7994a6f",
+      "price": "9.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Lot de 50 cartes Pokémon - FR",
+      "url": "https://www.play-in.com/fr/produit/618494/lot-de-50-cartes-pokemon-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "da1d395f80eb5f50e2afc7c65ecbcfedba1aaa772ae47a65ecd09b92555a2f8f",
+      "price": "15.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Duopack Pokémon : Zarude Août 2026 - FR",
+      "url": "https://www.play-in.com/fr/produit/663245/duopack-pokemon-zarude-aout-2026-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "b81ccd471f21118a6781029247d1d07b115c93e351303e20ae2524905357746f",
+      "price": "3.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : Heat Wave Arena [SV9A] - KO",
+      "url": "https://www.play-in.com/fr/produit/638648/booster-pokemon-heat-wave-arena-sv9a-ko"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "0c2890bc2315e170d94ae671088505b5a8671ed04eabacc020ef26f74e4bf021",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : 151 Vol 1 Journey - CN",
+      "url": "https://www.play-in.com/fr/produit/660839/booster-pokemon-151-vol-1-journey-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "a0135baaa0b35ebe7f82225674fc240929c131e671d3bacbf95870e3da0ac436",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : 151 Vol 2 Hope - CN",
+      "url": "https://www.play-in.com/fr/produit/660795/booster-pokemon-151-vol-2-hope-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "7431312f8d7e45840b21241e79018f95308e643547e3b8744476a809171a16c1",
+      "price": "7.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : 151 Vol 3 Surprise - CN",
+      "url": "https://www.play-in.com/fr/produit/646651/booster-pokemon-151-vol-3-surprise-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "b1e8330ed95741b1fb7a6d0b75de45e0c37ba9eb700f325a3fa59fd9d71b2edb",
+      "price": "4.50 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : Mega Storm Emeralda [M6] - KO",
+      "url": "https://www.play-in.com/fr/produit/667987/booster-pokemon-mega-storm-emeralda-m6-ko"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "12992846d0d61d6b66e2f312748e16f4ee9469802d10fcbbd5a359ad8f96ee08",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/637207/booster-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "109e1e7ee5949dc78f682f2523ae918eeef11c2c257a30ae05bc004c7909fe57",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : Flammes Obsidiennes [EV3] - FR",
+      "url": "https://www.play-in.com/fr/produit/495210/booster-pokemon-flammes-obsidiennes-ev3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "c47c65e920db7fa8d6d323e9d15d549227ca728096df20e265cb085805b2d62f",
+      "price": "229.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Display de 36 boosters Pokémon : Flammes Obsidiennes [EV3] - FR",
+      "url": "https://www.play-in.com/fr/produit/495211/display-de-36-boosters-pokemon-flammes-obsidiennes-ev3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:32 GMT",
+      "id": "9601de121e749a42e5f34adf54246e05bc42646df3b8ff844f02b8162073a990",
+      "price": "49.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Coffret Collection Premium Pokémon : Méga-Amphinobi-ex - FR",
+      "url": "https://www.play-in.com/fr/produit/656526/coffret-collection-premium-pokemon-mega-amphinobi-ex-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "ff3c1063b7166f0689da0fb7cf338b3376f43f48a28ea042e4f7abf68a6f0a56",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pack d'Avant-Première Stratégies et Combats Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/650367/pack-d-avant-premiere-strategies-et-combats-pokemon-nuit-noire-me5-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "5b4e2c0fb09a0d63e663d776d5392420812c75889ed0c06aecf241fd0e8bd445",
+      "price": "19.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Tripack Pokémon : Nuit Noire [ME5] - Opermine - FR",
+      "url": "https://www.play-in.com/fr/produit/650371/tripack-pokemon-nuit-noire-me5-opermine-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "78c7718107caa47123ce81976fb5c409d835541a7a7ea3b73fb6f207555166a6",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Nuit - Pikachu - FR",
+      "url": "https://www.play-in.com/fr/produit/659639/mini-tin-pokemon-30-ans-nuit-pikachu-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "069792cd20d17d29e00d53da29e1dc053d20e2ffef65ba041173775472571072",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Nuit - Mewtwo - FR",
+      "url": "https://www.play-in.com/fr/produit/659638/mini-tin-pokemon-30-ans-nuit-mewtwo-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "d33876133dd0c62564c5039487258eaaa7a75831741329a084228954cf84840e",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Nuit - Noctali - FR",
+      "url": "https://www.play-in.com/fr/produit/659637/mini-tin-pokemon-30-ans-nuit-noctali-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "6ab2ffbd7d53c53ee5e4ea9c19a84225e4b0d6d3683e71e84875a1b75c34b6b6",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Nuit - Électhor - FR",
+      "url": "https://www.play-in.com/fr/produit/659636/mini-tin-pokemon-30-ans-nuit-electhor-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "091d55148ac9bd4a190bb92be021d63dbb9ff99d1107747ee6f9d3bf6553e777",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Jour - Sulfura - FR",
+      "url": "https://www.play-in.com/fr/produit/659635/mini-tin-pokemon-30-ans-jour-sulfura-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "ec4c8a253a1312042742958bdb875389f402124060a99fcc192b72f8d496868c",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Jour - Lokhlass - FR",
+      "url": "https://www.play-in.com/fr/produit/659634/mini-tin-pokemon-30-ans-jour-lokhlass-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "609d1a2910ea09dd94f94d50a852cdb01d785e78a89fd89db21dde07153d48eb",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Jour - Mew - FR",
+      "url": "https://www.play-in.com/fr/produit/659633/mini-tin-pokemon-30-ans-jour-mew-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "6a8a06738540dad546873f38552fcf3fc636db44cfd5adea35565fde6ed3f716",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Jour - Pikachu - FR",
+      "url": "https://www.play-in.com/fr/produit/659632/mini-tin-pokemon-30-ans-jour-pikachu-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "3a6546a3c3e2f96e6b5a25c6b7c64242a26824e2e76b93dcd892512a72679d5a",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin Pokémon : 30 Ans - Jour - Mentali - FR",
+      "url": "https://www.play-in.com/fr/produit/659629/mini-tin-pokemon-30-ans-jour-mentali-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "9e869c075002481eda18a8f0a0333124f1929ee30d8503faf30a37fc28dfbd2d",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Championnats du Monde Pokémon 2025 : Riley McKay - Flutter Devo Gardevoir - FR",
+      "url": "https://www.play-in.com/fr/produit/656382/deck-championnats-du-monde-pokemon-2025-riley-mckay-flutter-devo-gardevoir-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "bf26ab04dbe658247eac9e9fb0d01771b79115fa5eb6eb7154a5cabc32964ff4",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Championnats du Monde Pokémon2025 : Jose Cruz Galindo-Resendiz - Pult Bomb - FR",
+      "url": "https://www.play-in.com/fr/produit/656387/deck-championnats-du-monde-pokemon2025-jose-cruz-galindo-resendiz-pult-bomb-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "8660fb652bf66e68e3f2779f4dfce686cac626fdcb0e4f735b273c10ce5fd66c",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Championnats du Monde Pokémon 2025 : Yuya Okita - Raging Bolt - FR",
+      "url": "https://www.play-in.com/fr/produit/656386/deck-championnats-du-monde-pokemon-2025-yuya-okita-raging-bolt-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "537771feb47dfdefd544fc218c04469c5501fcc20fe0c7e85e48834b734adefa",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Deck Championnats du Monde Pokémon 2025 : Liao Fu Guan - Joltdengo - FR",
+      "url": "https://www.play-in.com/fr/produit/656385/deck-championnats-du-monde-pokemon-2025-liao-fu-guan-joltdengo-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "cd561915a7d057ed4d5b557282eb8179152df024d821a37553b7ebfe5d16eee9",
+      "price": "15.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Duopack Pokémon : Zarude Août 2026 - FR",
+      "url": "https://www.play-in.com/fr/produit/663245/duopack-pokemon-zarude-aout-2026-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "1f0c5de98b88043cf0e2ed31766587a4aa9bc0110e0d267433573b0096c5fe0d",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection Autocollant Pokémon : 30 Ans - Lucario - FR",
+      "url": "https://www.play-in.com/fr/produit/659376/collection-autocollant-pokemon-30-ans-lucario-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "e46f96cdb6c0546c5d8bba1bed47bae3dddda667805d54a0428790961f6439a2",
+      "price": null,
+      "priority": "high",
+      "score": 5,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Collection Autocollant Pokémon : 30 Ans - Noadkoko d'Alola - FR",
+      "url": "https://www.play-in.com/fr/produit/659371/collection-autocollant-pokemon-30-ans-noadkoko-d-alola-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "844fd83188fa6ef4d1671ae8c2cdb663d72f0d2b694be5b2eaac84faba8ce4a0",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : 151 Vol 1 Journey - CN",
+      "url": "https://www.play-in.com/fr/produit/660839/booster-pokemon-151-vol-1-journey-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "283e0d0928ddc8e4d49dcb8f1db4cd58e42799428f17e9b565ac83536af4b241",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : 151 Vol 2 Hope - CN",
+      "url": "https://www.play-in.com/fr/produit/660795/booster-pokemon-151-vol-2-hope-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "29ca027451124b10869cecb252796d2748ae8acc1445c588b7d69d59cb659b97",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : 151 Vol 4 Gathering - CN",
+      "url": "https://www.play-in.com/fr/produit/660868/booster-pokemon-151-vol-4-gathering-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "026a67f191330592ee86d1a9d8c7d20ba37c709b3644a9d907f61ba070300b2a",
+      "price": "7.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : 151 Vol 3 Surprise - CN",
+      "url": "https://www.play-in.com/fr/produit/646651/booster-pokemon-151-vol-3-surprise-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "8bf3eafbb530e77feccde6c4032141cdcb4783d07df3dfc57e7a68754e8192c2",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Blister Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/667142/booster-blister-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "5a686dfdacad5e1e25712d30c4f598cfb7ef219abbfa08e1f753acf508e5772a",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/637207/booster-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "f3d85fea4c13597687cef188622b785a56986624d29b69124763d3c6ddf38042",
+      "price": "6.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/650368/booster-pokemon-nuit-noire-me5-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "ac2b4e1535407a6456eef4891ce22048b033ed6dca999afd741be080f641616d",
+      "price": "7.50 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Blister Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/658001/booster-blister-pokemon-nuit-noire-me5-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "f26e6ad546648ff7704f5cbf5464e3cb05e08856ea3b65ade365e8146648bc29",
+      "price": "4.50 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Booster Pokémon : Mega Storm Emeralda [M6] - KO",
+      "url": "https://www.play-in.com/fr/produit/667987/booster-pokemon-mega-storm-emeralda-m6-ko"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "724da1414535f91b3248693d2b4b87468367632a3285ce6ea321dd42264b1683",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters Pokémon : 151 Vol 4 Gathering - CN",
+      "url": "https://www.play-in.com/fr/produit/662446/display-de-15-boosters-pokemon-151-vol-4-gathering-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "08d51c3754ba66ab4a5666f4c11b5c70ec0d205e721822ef8b2852784dc0d599",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters Pokémon : 151 Vol 1 Journey - CN",
+      "url": "https://www.play-in.com/fr/produit/662298/display-de-15-boosters-pokemon-151-vol-1-journey-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "55d2d56bc53e8c23ac1a4035160ddd9fe5d967ff8c1ed1223e5baa6c8657658c",
+      "price": "89.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters Pokémon : 151 Vol 2 Hope - CN",
+      "url": "https://www.play-in.com/fr/produit/662301/display-de-15-boosters-pokemon-151-vol-2-hope-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "640fac0841f6689ca88ae57080d5cd9a3f15ae3fc6b5edc1641abd6f2218c36f",
+      "price": "109.00 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 15 boosters Pokémon : 151 Vol 3 Surprise - CN",
+      "url": "https://www.play-in.com/fr/produit/662445/display-de-15-boosters-pokemon-151-vol-3-surprise-cn"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "504efe55fa4c367f5048f0c5855b985c23c2db14df652bcd41272d86a804715e",
+      "price": "219.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 36 boosters Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/637208/display-de-36-boosters-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "8882ca2f6c37651a686fce8fbb0e15cc1b95c3ae44f0d9aee0a879238c9cc244",
+      "price": "39.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "bundle"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Bundle 6 boosters Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/637216/bundle-6-boosters-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "4c928893edddac4cfe84209f460467fdf58d5d1222c564e002a942863c6b4711",
+      "price": "74.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "etb"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Dresseur d'élite (ETB) Pokémon : Équilibre Parfait [ME3] - FR",
+      "url": "https://www.play-in.com/fr/produit/637211/coffret-dresseur-d-elite-etb-pokemon-equilibre-parfait-me3-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "07ec1f55f042c09c4848730651cd97dc1ae39dba8da9d8729652ea6ba7a8450f",
+      "price": "229.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 36 boosters Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/650369/display-de-36-boosters-mega-evolution-nuit-noire-pokemon-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "ae545c28df3d6326c9b17f5e84b67094e10f12fd6e49f366eace685acd81ba89",
+      "price": "39.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "bundle"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Bundle 6 boosters Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/650373/bundle-6-boosters-pokemon-nuit-noire-me5-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "9c3c2fb5d3cf31f2f6e45a1a859a3f078bfd6a2448134439de6c6469540229ce",
+      "price": "74.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "etb"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Dresseur d'élite (ETB) Pokémon : Nuit Noire [ME5] - FR",
+      "url": "https://www.play-in.com/fr/produit/650372/coffret-dresseur-d-elite-etb-pokemon-nuit-noire-me5-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "e4c7d41479182c2370acac6db1f99515c7849ab1664c98990e7e2d929259ccbe",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Poster Pokémon : 30 Ans - FR",
+      "url": "https://www.play-in.com/fr/produit/659419/coffret-collection-poster-pokemon-30-ans-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "f7c94255b998709ebc20d470e163b097b8def37f3e43e7f66b16a9922c142152",
+      "price": "99.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Display de 30 boosters Pokémon : Mega Storm Emeralda [M6] - KO",
+      "url": "https://www.play-in.com/fr/produit/667986/display-de-30-boosters-pokemon-mega-storm-emeralda-m6-ko"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:29 GMT",
+      "id": "86bf8d2a303ac29bd605cf0653a048613584b26d277d4bc83b8810f3e18c647e",
+      "price": "49.90 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Premium Pokémon : Méga-Amphinobi-ex - FR",
+      "url": "https://www.play-in.com/fr/produit/656526/coffret-collection-premium-pokemon-mega-amphinobi-ex-fr"
+    },
+    {
+      "first_seen": "Mon, 31 Aug 2026 19:15:27 GMT",
+      "id": "d6eb827e9c4be755f16db43420ec7e4f7047421b70fb3a422ab05549ace0282e",
+      "price": "99.90 €",
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "store": "Playin - Prochaines sorties",
+      "title": "Display de 30 boosters Pokémon : Mega Storm Emeralda [M6] - KO",
+      "url": "https://www.play-in.com/fr/produit/667986/display-de-30-boosters-pokemon-mega-storm-emeralda-m6-ko"
+    },
+    {
       "first_seen": "Mon, 31 Aug 2026 12:44:08 GMT",
       "id": "798ceb5ec290c01f8f7d11b5af16cbbd76f62c6f21d234d079f79fb4ae01cf1d",
       "price": null,
@@ -2795,15 +3519,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "a26cc471a468f8bdc3904d46df90e9c590babee21de651dd8978d205ae5cc8b6",
-      "https://www.micromania.fr/c/cartes-precommande": "d2f4ad2b37a4bad974fba94ec0a4ab667d405e0cdf204e5092dbd352ffed77a8",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "fa0795ade9dca5b2bb456092cc73edd8f8a142f6445bc196538d7def693fa1e8",
-      "https://www.micromania.fr/c/cartespokemon": "5be237223aea557d7504bb9c74011fcc99dd198b799b3fad6a7c814e42c3ef10",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "72c67cff3844778d0dd7137b8f318177cef3a3dd0873c4a608ebd3b8f4566078",
-      "https://www.philibertnet.com/fr/578-precommandes": "638530f4bf8cc2b232d47395e311786621edc68925977af28a3b1e8c466a17ab",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "f8b4133e6539cea144970b2e1146bdd823af1a602dd0e9065014a020265c3e3f",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "cd1dfc3991c202c8dcee5ef7b80bcacf526601a3403ab8b716bce2c56a1f954f",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "b39ca5289f439fb733fc4b1b733c9f54640212646283c94fda4e3a8a3efc2a59"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "99f2ad5b9059a3aa31fe2c9e5b916607d3aa01ff7bf530d70081b29b857e95b0",
+      "https://www.micromania.fr/c/cartes-precommande": "4faf33c260a7114db7bb89e8d69ca4d5a9c4411cfd98d62820390165f1d460c8",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "9c518663b2f126990fd438297e08224d502e79c8648d1a911e8be5434538bcd9",
+      "https://www.micromania.fr/c/cartespokemon": "9303454772b422f92d073ae9e1a599dfbf0aadf4b6a8acabe331b92b1ed1e98e",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "0559f670975ed0a50a94df0d1d0f72b9edb9524a9282f54336c4ea4ffbc980c2",
+      "https://www.philibertnet.com/fr/578-precommandes": "9054a60e802d3f70d0167d889509ab327cc0e8b6708103026976fc8d36c5988d",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "b1d99bb931b1b067fecc14ebae695a4fe9cdb6c92103a62fac06f05e7ab71352",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "3588d51689d793deada3c30bbc7da4d3c4e9411086aefb74473fe96c5cf789db",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "6a2a269c86014e235aa77ab315067cc64348ff72ffd1e0df82421413db892ca3"
     }
   }
 }
