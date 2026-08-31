@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "first_seen": "Mon, 31 Aug 2026 12:44:08 GMT",
+      "id": "798ceb5ec290c01f8f7d11b5af16cbbd76f62c6f21d234d079f79fb4ae01cf1d",
+      "price": null,
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Mini Tin 30 Ans - Nuit - Pikachu - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/659639/mini-tin-pokemon-30-ans-nuit-pikachu-fr"
+    },
+    {
       "first_seen": "Fri, 28 Aug 2026 07:04:43 GMT",
       "id": "afc3e63aa3cef762317b4369deea763c3b4169c5377244ea1781092970c57a25",
       "price": "11.90 €",
@@ -2783,15 +2795,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "ace2c6be29f49e5124b9ac36c8891786d297544d94ce0e47ea06a628877e5f2b",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "a26cc471a468f8bdc3904d46df90e9c590babee21de651dd8978d205ae5cc8b6",
       "https://www.micromania.fr/c/cartes-precommande": "d2f4ad2b37a4bad974fba94ec0a4ab667d405e0cdf204e5092dbd352ffed77a8",
       "https://www.micromania.fr/c/cartes-prochaines-sorties": "fa0795ade9dca5b2bb456092cc73edd8f8a142f6445bc196538d7def693fa1e8",
       "https://www.micromania.fr/c/cartespokemon": "5be237223aea557d7504bb9c74011fcc99dd198b799b3fad6a7c814e42c3ef10",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "f9666df644537d32e62b15ef62862de3d45e157a0053f19f356426849fbacf5c",
-      "https://www.philibertnet.com/fr/578-precommandes": "2f80881807dd6eb1c8478e5bbd3a36cb64779c8151ccd6d6d9139f1c7b8f671c",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "7ae77eedf701ec760dcf08df506e876818bc03da46ea19c6d9588726ce2936c6",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "3c10e7e8643133f467b1dd21b4df11d4d06efd91aab8032dd55e96cff30f21c5",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "85e628cf965a3a4901a67398ccd10c07759083dd53beff8382a6e289afd0e490"
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "72c67cff3844778d0dd7137b8f318177cef3a3dd0873c4a608ebd3b8f4566078",
+      "https://www.philibertnet.com/fr/578-precommandes": "638530f4bf8cc2b232d47395e311786621edc68925977af28a3b1e8c466a17ab",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "f8b4133e6539cea144970b2e1146bdd823af1a602dd0e9065014a020265c3e3f",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "cd1dfc3991c202c8dcee5ef7b80bcacf526601a3403ab8b716bce2c56a1f954f",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "b39ca5289f439fb733fc4b1b733c9f54640212646283c94fda4e3a8a3efc2a59"
     }
   }
 }
