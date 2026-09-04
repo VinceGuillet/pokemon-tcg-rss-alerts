@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "ed9b919023e01babe5d1b1a1da67fa61e2322599cef0b55b2c0a5cfe5753f030",
+    "store": "Playin - Prochaines sorties",
+    "priority": "high",
+    "title": "Pokébox Méga Puissances - Méga-Darkrai-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663258/pokebox-mega-puissances-mega-darkrai-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Fri, 04 Sep 2026 05:30:52 GMT"
+  },
+  {
+    "id": "3524db1f483c4edb4f90568855defa7327f180122f48b23926428894fbc8b4b2",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pokébox Méga Puissances - Méga-Darkrai-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663258/pokebox-mega-puissances-mega-darkrai-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT"
+  },
+  {
+    "id": "6efa71f07785600b432e14735f86425bf1ecba9b323a4cbc8b6526ff3b4fa9a7",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pokébox Méga Puissances - Méga-Dracolosse-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663260/pokebox-mega-puissances-mega-dracolosse-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "34.90 €",
+    "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT"
+  },
+  {
+    "id": "1639c0aad02a1873bcabe060bb139f6a0397de3ef8d7e938353393e9075f3d1b",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Pokébox Méga Puissances - Méga-Zeraora-ex - Pokémon FR",
+    "url": "https://www.play-in.com/fr/produit/663261/pokebox-mega-puissances-mega-zeraora-ex-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 2,
+    "signals": [],
+    "price": "29.90 €",
+    "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT"
+  },
+  {
+    "id": "a57fbd1c8d4d56e910ec9231f039c36002431947365602bc83243efa6e2ebc77",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Pokémon : Super Electric Breaker [SV8] - KO",
+    "url": "https://www.play-in.com/fr/produit/637558/booster-pokemon-super-electric-breaker-sv8-ko",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "4.90 €",
+    "first_seen": "Fri, 04 Sep 2026 05:30:57 GMT"
+  }
+]

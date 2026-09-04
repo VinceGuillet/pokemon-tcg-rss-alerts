@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 04 Sep 2026 05:30:57 GMT",
+      "id": "a57fbd1c8d4d56e910ec9231f039c36002431947365602bc83243efa6e2ebc77",
+      "price": "4.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : Super Electric Breaker [SV8] - KO",
+      "url": "https://www.play-in.com/fr/produit/637558/booster-pokemon-super-electric-breaker-sv8-ko"
+    },
+    {
+      "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT",
+      "id": "1639c0aad02a1873bcabe060bb139f6a0397de3ef8d7e938353393e9075f3d1b",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pokébox Méga Puissances - Méga-Zeraora-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663261/pokebox-mega-puissances-mega-zeraora-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT",
+      "id": "6efa71f07785600b432e14735f86425bf1ecba9b323a4cbc8b6526ff3b4fa9a7",
+      "price": "34.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pokébox Méga Puissances - Méga-Dracolosse-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663260/pokebox-mega-puissances-mega-dracolosse-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 04 Sep 2026 05:30:54 GMT",
+      "id": "3524db1f483c4edb4f90568855defa7327f180122f48b23926428894fbc8b4b2",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Pokébox Méga Puissances - Méga-Darkrai-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663258/pokebox-mega-puissances-mega-darkrai-ex-pokemon-fr"
+    },
+    {
+      "first_seen": "Fri, 04 Sep 2026 05:30:52 GMT",
+      "id": "ed9b919023e01babe5d1b1a1da67fa61e2322599cef0b55b2c0a5cfe5753f030",
+      "price": "29.90 €",
+      "priority": "high",
+      "score": 2,
+      "signals": [],
+      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
+      "store": "Playin - Prochaines sorties",
+      "title": "Pokébox Méga Puissances - Méga-Darkrai-ex - Pokémon FR",
+      "url": "https://www.play-in.com/fr/produit/663258/pokebox-mega-puissances-mega-darkrai-ex-pokemon-fr"
+    },
+    {
       "first_seen": "Thu, 03 Sep 2026 05:06:10 GMT",
       "id": "610f1fe4cf2ef2e040ccfadf3e0d775f24093a1ecd718783a25b4c55b5a64746",
       "price": null,
@@ -3641,15 +3703,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "2e012b5c3dc70eba8c8211128538ac2399f6c103043b4299a551e098933d18ec",
-      "https://www.micromania.fr/c/cartes-precommande": "bbea35b56e332a0ab3863c2d7ea368047279eb10af53fbe9c1c8a44b2bfd10b7",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "cdfa169525fd3d8d828eaf5415b738dae3383516b1bd355a3c737db27ed20234",
-      "https://www.micromania.fr/c/cartespokemon": "94305a7733e695897bb7d72382e7f74d893f021e4b1b014245566de133157a97",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "1aff860c74daaa7027f75990d9f3b2de7f683a6adc78087ec7b2b5ab9c98df11",
-      "https://www.philibertnet.com/fr/578-precommandes": "bffeb74baca8b32c32e2627fb06a6cd63023dba0704fb6a9b257fdd4af646705",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "096f05dbbdb4a8123a9baaff47cacb8fdb5e8c5434c652bc13dcec7b3bef635d",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "7d23b640a913a4596714e935b3c757e5f91a7f09fe64c34ee08094d967901db6",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f2aa0127f25d18e7b649f90bb488a540342c0389a2401663fe684b872133383d"
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "14a27ebb2f9ae27ecfe803c41d55a1db63fc83bfd334d0fca17721a6e30c0fee",
+      "https://www.micromania.fr/c/cartes-precommande": "749d347dfc56d3fe0386e4766881d98b1855de048837b4764f4f90de547fba55",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "7b9f4859cbbd9f15afb03f11717fc88b9a58e871549344383af63eb13511ca88",
+      "https://www.micromania.fr/c/cartespokemon": "eb9d585897c42f03329923305d5b638021bd09fca8e5575a19d6dca037d81f2b",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "d190451a713e1e262155a12b6e1613279c714d706888ed16ee89a3e12783d4ca",
+      "https://www.philibertnet.com/fr/578-precommandes": "1ab84453d6351e7638a9f41a09144aeda184011b9f9248c768f4363fba697cd7",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "3f0647963173b60e5f0be06311a80ff1990cfa27c7b5ee286cf67f0a0d76a08b",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "4ed5b57b565c4f41ccd1afdf07cc5de3319be7e5dfda0c08acb1115c7837c7e5",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "7f62575c7f465fc2dd00985ba33dee65f8a4019341c55a5a06dc84ae268a4015"
     }
   }
 }
