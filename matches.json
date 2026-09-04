@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "7792362b70e09bed06befcba164055a2168ad8e07c30a40de00ccc66329c7a4a",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Booster Pokémon : Nuit Noire [ME5] - FR",
+    "url": "https://www.play-in.com/fr/produit/650368/booster-pokemon-nuit-noire-me5-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Fri, 04 Sep 2026 14:03:39 GMT"
+  }
+]
