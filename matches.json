@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "d8ec5afbc9a9844d067ebbbd6261af67a2aa3de2f77da3edc248427eb2353647",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Coffret Académie de Combat Pokémon - FR",
+    "url": "https://www.play-in.com/fr/produit/543738/coffret-academie-de-combat-pokemon-fr",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 9,
+    "signals": [
+      "coffret"
+    ],
+    "price": "26.90 €",
+    "first_seen": "Thu, 10 Sep 2026 06:21:11 GMT"
+  }
+]
