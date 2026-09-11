@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "first_seen": "Fri, 11 Sep 2026 15:01:06 GMT",
+      "id": "d74b3a608b72f7e3e12f2cce1fe8c9f0c4f529a3de5b67888af03b68f386e4e6",
+      "price": "69.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Rupture Pokemon ME03 - Coffret Dresseur d’Elite -... Le Pokémon ME03 - Coffret Dresseur d’Elite Equilibre Parfait contient 9... https://schema.org/OutOfStock 69",
+      "url": "https://www.ludifolie.com/24240-pokemon-me03-coffret-dresseur-delite-equilibre-parfait.html"
+    },
+    {
       "first_seen": "Fri, 11 Sep 2026 05:59:01 GMT",
       "id": "16a5f06a6fe4ad0185cfd230698ab4a894e9d950a04eb7e178587b81aac8c8e8",
       "price": "8.90 €",
@@ -3791,15 +3805,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "b354fdbceaa9fa831656d55b7e67f5d9de6001e1245e530bb231b67149df70ee",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "20997a3bc88d88174b9be47283829f9a90c15e20e78cd5932eeb9d83f00170c8",
       "https://www.micromania.fr/c/cartes-precommande": "0abe18f76f0183878de446fda4573f8d6c609e18e3b1b13cf515ba249b1465a9",
       "https://www.micromania.fr/c/cartes-prochaines-sorties": "4a25529530bc1c72fe8c1df5604555917c9cde5486b7ff82f068f7d6f3df7522",
       "https://www.micromania.fr/c/cartespokemon": "64085dc6b3a2607ef0887f2b6f204344cbe5d8c07e8fd294388f8b98ebb80e80",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "a53ec5738f5c23505406326d35f3a31385c2668703c1c84df9a6d711d9a2249f",
-      "https://www.philibertnet.com/fr/578-precommandes": "fbaf0abb17a541ce45dbf32d5bc7d6f7371406ee8f9722818eeb52b2ae3d69db",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "092f86843e1621adc0ac25c738aafa52e6ab0bad1529793efa9e237bfd6ebd06",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "59cb53c87a3596c8655820cc8238c1929c2ca8f00a2d1d6fa0dd8128e331a359",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "3c2cd1cdbe866637bfdc532bf355e699099a9659b0a380eec2ac688677929aed"
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "f5c588a834344577d7f50a248734664d170a49f3e5586b593e4c44730adf23bf",
+      "https://www.philibertnet.com/fr/578-precommandes": "f1f7bebfac273963d0cc51e2726178c473688baa8c83dc28fc9b6da95dd92983",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "f9b9d0c70d821eaa0dac4a199c4da90201026c61709199da352be28e1cf0e062",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "3207c01b9d550fac1932aefacf46558c547060b03817c29e47745341416b0aaf",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "180217e5dc8e330661c45a46493b914e122f3544f6228ae4b265e7e317bea96d"
     }
   }
 }
