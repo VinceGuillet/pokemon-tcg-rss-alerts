@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 12 Sep 2026 06:11:17 GMT",
+      "id": "6a762895dfefbb3dbe9a5173b72028d053d7a2cba6cc97956672316096fac59e",
+      "price": null,
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Coffret Pokémon : 30 Ans - Amphinobi-ex - FR",
+      "url": "https://www.play-in.com/fr/produit/659558/coffret-pokemon-30-ans-amphinobi-ex-fr"
+    },
+    {
+      "first_seen": "Sat, 12 Sep 2026 06:11:17 GMT",
+      "id": "da5a587421634791ea050b792558a13d0cb709943254836f509f4f1c4f02e6ae",
+      "price": null,
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "coffret"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Coffret Pokémon : 30 Ans - Nymphali-ex - FR",
+      "url": "https://www.play-in.com/fr/produit/659425/coffret-pokemon-30-ans-nymphali-ex-fr"
+    },
+    {
+      "first_seen": "Sat, 12 Sep 2026 06:11:17 GMT",
+      "id": "783b626e7e9ffe2fc412e83bdc47d1d217e04a1aaa61fd2b048600918643d3af",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Coffret Collection Poster Pokémon : 30 Ans - FR",
+      "url": "https://www.play-in.com/fr/produit/659419/coffret-collection-poster-pokemon-30-ans-fr"
+    },
+    {
       "first_seen": "Fri, 11 Sep 2026 15:01:06 GMT",
       "id": "d74b3a608b72f7e3e12f2cce1fe8c9f0c4f529a3de5b67888af03b68f386e4e6",
       "price": "69.90 €",
@@ -3805,15 +3848,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "3922d98aa0cbd0428694875d409bc1b4867ac01b37a61dc5c7aed3ac3b54b2f9",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "14a9bac95984f9449d0b908c985d772460bb1b5da07681f95ea3ab1b4fe9048a",
       "https://www.micromania.fr/c/cartes-precommande": "0abe18f76f0183878de446fda4573f8d6c609e18e3b1b13cf515ba249b1465a9",
       "https://www.micromania.fr/c/cartes-prochaines-sorties": "4a25529530bc1c72fe8c1df5604555917c9cde5486b7ff82f068f7d6f3df7522",
       "https://www.micromania.fr/c/cartespokemon": "64085dc6b3a2607ef0887f2b6f204344cbe5d8c07e8fd294388f8b98ebb80e80",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "407c437c47dccf90b6e603beeff980970c684260b9475b36500bcf9066539c92",
-      "https://www.philibertnet.com/fr/578-precommandes": "b6e0d045c4f8cabdeef21db6f9d2b5531b8894c45324c749dc2d025e2b05c090",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "abe3be6cc2018cb2d736c4decd79d491dcd0a78c2f28b1fbfea4529a20cff482",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "502d6c1c6831de22625a93d0d7650698906f362352e23628105ae0bfb1f4d817",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "5a64f650e2c2ebe78f0c687191086935bffe630c231517ac5c4f189ef005ebe9"
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "5d34b5002411a9cec859231bb91076548e1edc5699898c47f406a4bec0493b94",
+      "https://www.philibertnet.com/fr/578-precommandes": "0621d4adafa92be15ef73e0adf18aeeafc54f0a47b97ac22d40eea08a6d3742c",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "254bc478c21b24a6e505070286f00da6e8f9b0e92ebeeaa2a6ce1e6cff7fb7f4",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "9d3122d26e830ddbb7e4a7be74675c085cd6c264035fad85b41afcf3292ed2ab",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "4acd32c47b38d0693a63f088b666cdbc6f081a7b03dbbdede2959d59d307e531"
     }
   }
 }
