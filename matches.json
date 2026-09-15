@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "45e32d289d2d84918660060ab71bfa26504d9bb737c3963c8c826afcac7c1998",
+    "store": "Playin - Booster & Display Pokémon",
+    "priority": "high",
+    "title": "Display de 20 boosters Pokémon 30 ans 30th Celebration [M6A] - CN",
+    "url": "https://www.play-in.com/fr/produit/670427/display-de-20-boosters-pokemon-30-ans-30th-celebration-m6a-cn",
+    "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+    "score": 15,
+    "signals": [
+      "30th",
+      "booster",
+      "display"
+    ],
+    "price": "159.00 €",
+    "first_seen": "Tue, 15 Sep 2026 07:12:21 GMT"
+  }
+]

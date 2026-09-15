@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 15 Sep 2026 07:12:21 GMT",
+      "id": "45e32d289d2d84918660060ab71bfa26504d9bb737c3963c8c826afcac7c1998",
+      "price": "159.00 €",
+      "priority": "high",
+      "score": 15,
+      "signals": [
+        "30th",
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Display de 20 boosters Pokémon 30 ans 30th Celebration [M6A] - CN",
+      "url": "https://www.play-in.com/fr/produit/670427/display-de-20-boosters-pokemon-30-ans-30th-celebration-m6a-cn"
+    },
+    {
       "first_seen": "Sat, 12 Sep 2026 06:11:17 GMT",
       "id": "6a762895dfefbb3dbe9a5173b72028d053d7a2cba6cc97956672316096fac59e",
       "price": null,
@@ -3848,15 +3864,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "625e6c828e8a63e3a465fa1e35ab079981c27856534907618a7027a87e3d2d11",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "56854f428798e0b4cee7b37f7e3a484f1232e09427fc1a45685744430339e7d0",
       "https://www.micromania.fr/c/cartes-precommande": "0abe18f76f0183878de446fda4573f8d6c609e18e3b1b13cf515ba249b1465a9",
       "https://www.micromania.fr/c/cartes-prochaines-sorties": "4a25529530bc1c72fe8c1df5604555917c9cde5486b7ff82f068f7d6f3df7522",
       "https://www.micromania.fr/c/cartespokemon": "64085dc6b3a2607ef0887f2b6f204344cbe5d8c07e8fd294388f8b98ebb80e80",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "3ea14ee7b95afa8f8ff47b39ffb065ff4821303353b72d0f8e73d6ce72a1ae57",
-      "https://www.philibertnet.com/fr/578-precommandes": "e5e1057335e8e80896b062571fa50beb3f464a65defa27a072dad93a6071b207",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "a45f5d28d243c608d2815d7e169015d43700dad4540826170c00af4ea24594cb",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "465300440c275466a1ad26bdd40e212dbaac841e2729576abb83a47e765d51a3",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "15368789e80834f9dad986faba1af76a56c3cbcba51a62e864fbf51705d9bf20"
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "55e6229525175d37e428215e73795d82c941b9d4950623f55c284189c6a27337",
+      "https://www.philibertnet.com/fr/578-precommandes": "a10a931e1846740bd69cb259558a8a2ff5d1d05e8ade71e49817904903884025",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "748dc14b8af0aa4c95b0fb08a5ed8f1849aa506474da0a523fcc57e028feb050",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "e8b00963bbb3a0d3d34e22d77fa4c0d2f874d203b266dec1c4c7c191361d3c0c",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "9cef5b21edb7e08ec4ab502d63ba2185d0c74cedf8c09434d62028d4edaffc7a"
     }
   }
 }
