@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "186b3ede57fff3b8ac92b8a2afa677f0def4e0a88a5ca165ad1d28e377d0c018",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Boîte de rangement vide Pokémon 30e anniversaire",
+    "url": "https://www.play-in.com/fr/produit/672503/boite-de-rangement-vide-pokemon-30e-anniversaire",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 8,
+    "signals": [
+      "30e",
+      "anniversaire"
+    ],
+    "price": "4.90 €",
+    "first_seen": "Fri, 18 Sep 2026 17:29:30 GMT"
+  },
+  {
+    "id": "65a5e2aebaab412d9dd011f4e4eb3c8b8fa513bd816da76789033904873874d0",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "65 Pochettes Pokémon 30e anniversaire Format Standard",
+    "url": "https://www.play-in.com/fr/produit/672505/65-pochettes-pokemon-30e-anniversaire-format-standard",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 8,
+    "signals": [
+      "30e",
+      "anniversaire"
+    ],
+    "price": "4.90 €",
+    "first_seen": "Fri, 18 Sep 2026 17:29:30 GMT"
+  },
+  {
+    "id": "04d2c9dd13a0c1cbf6bf31b6ffff638de1f628979cdb352160b81a1cdff31441",
+    "store": "Playin - Pokémon",
+    "priority": "high",
+    "title": "Lot de 7 dés Pokémon 30e anniversaire",
+    "url": "https://www.play-in.com/fr/produit/672506/lot-de-7-des-pokemon-30e-anniversaire",
+    "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+    "score": 8,
+    "signals": [
+      "30e",
+      "anniversaire"
+    ],
+    "price": "2.00 €",
+    "first_seen": "Fri, 18 Sep 2026 17:29:30 GMT"
+  }
+]
