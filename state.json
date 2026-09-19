@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 19 Sep 2026 04:56:44 GMT",
+      "id": "f0cda43ed097661f9ed17cdc34d32e8c6dd107dfd84d94655210f2a7dcefa136",
+      "price": "5.90 €",
+      "priority": "high",
+      "score": 9,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon",
+      "store": "Playin - Booster & Display Pokémon",
+      "title": "Booster Pokémon : White Flare [SV11W] - KO",
+      "url": "https://www.play-in.com/fr/produit/637003/booster-pokemon-white-flare-sv11w-ko"
+    },
+    {
+      "first_seen": "Sat, 19 Sep 2026 04:56:41 GMT",
+      "id": "a58fd1fd1a4f4b94fc1a62523b9cf19ccfa20aee17c24ca9c23d4b4b51ddb158",
+      "price": null,
+      "priority": "high",
+      "score": 12,
+      "signals": [
+        "coffret",
+        "collection"
+      ],
+      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "store": "Playin - Pokémon",
+      "title": "Coffret Collection Classeur Pokémon : 30 Ans - FR",
+      "url": "https://www.play-in.com/fr/produit/659587/coffret-collection-classeur-pokemon-30-ans-fr"
+    },
+    {
       "first_seen": "Fri, 18 Sep 2026 17:29:30 GMT",
       "id": "04d2c9dd13a0c1cbf6bf31b6ffff638de1f628979cdb352160b81a1cdff31441",
       "price": "2.00 €",
@@ -3924,15 +3953,15 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "fd70ba3af87b241b347a24d16fcb7f43497bb64cbf55d74e07682a0e505137f6",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "bafb0131c40c0c9228c5b94f8b0e1a91bfd7fde311228afd8c9e35f3e08b2d98",
       "https://www.micromania.fr/c/cartes-precommande": "0abe18f76f0183878de446fda4573f8d6c609e18e3b1b13cf515ba249b1465a9",
       "https://www.micromania.fr/c/cartes-prochaines-sorties": "4a25529530bc1c72fe8c1df5604555917c9cde5486b7ff82f068f7d6f3df7522",
       "https://www.micromania.fr/c/cartespokemon": "64085dc6b3a2607ef0887f2b6f204344cbe5d8c07e8fd294388f8b98ebb80e80",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "3faa373b0f18ecea63c7be7591520575aa77b3ffdb66555f55b936ec15e7ee69",
-      "https://www.philibertnet.com/fr/578-precommandes": "fb4c5d4419b8991747198f24de8683e97c788e55dfe60f5c3afacef46656f5d5",
-      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "6c740c27aba026b33ac532bcf3b30e585a95db0bdb8a939bbe669f483fe2ca04",
-      "https://www.play-in.com/fr/gamme/3/pokemon": "f61523ac63bd0390e728b2f9c7af526b45ded8489cd800c11ead739c6e9a5a71",
-      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "4d40ea367383b285d78324b862c2c90aa7a99e035bbdd0e514a0dd7134a5389b"
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "613f3522e8601903d603990484a5e3e2c321d579ac9a2100c50a643a7c9914f5",
+      "https://www.philibertnet.com/fr/578-precommandes": "b5a47c12864023432335e28cc728e325d2ab131fc4cefa79d2b8d32e40921e2d",
+      "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "ff442fda0b968814b260a635fea19369f6792a3c15028f61b975d4cd96967975",
+      "https://www.play-in.com/fr/gamme/3/pokemon": "76d8577a42e3687b8d6a1f8d28f5dd3b47bc3959523853f401d466d00822784a",
+      "https://www.play-in.com/fr/offre/50/prochaines-sorties": "7598ba8b7c442e6c8432bd0e82c4129960f0b665ad3ec2abc6ac0435a15c3164"
     }
   }
 }
