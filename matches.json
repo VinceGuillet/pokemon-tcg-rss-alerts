@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "b6fd2826bc1b66f7693bc612bce2ed9c45fb3299497c2bb833429e0d862db42b",
+    "store": "Philibert - Précommandes",
+    "priority": "medium",
+    "title": "Pokémon - Duopack Chaos Ascendant et Nuit Noire + 3 cartes promos",
+    "url": "https://www.philibertnet.com/fr/pokemon/183079-pokemon-duopack-chaos-ascendant-et-nuit-noire-3-cartes-promos-196214155992.html",
+    "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+    "score": 10,
+    "signals": [
+      "booster",
+      "collection"
+    ],
+    "price": "12.95 €",
+    "first_seen": "Tue, 29 Sep 2026 18:53:55 GMT"
+  }
+]

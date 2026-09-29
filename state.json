@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 29 Sep 2026 18:53:55 GMT",
+      "id": "b6fd2826bc1b66f7693bc612bce2ed9c45fb3299497c2bb833429e0d862db42b",
+      "price": "12.95 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "collection"
+      ],
+      "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+      "store": "Philibert - Précommandes",
+      "title": "Pokémon - Duopack Chaos Ascendant et Nuit Noire + 3 cartes promos",
+      "url": "https://www.philibertnet.com/fr/pokemon/183079-pokemon-duopack-chaos-ascendant-et-nuit-noire-3-cartes-promos-196214155992.html"
+    },
+    {
       "first_seen": "Wed, 23 Sep 2026 05:12:11 GMT",
       "id": "83c04848e61a66d28a490a2e25e79e29e7c55289c83442c01ff8c5608b04d078",
       "price": "29.90 €",
@@ -3982,11 +3997,11 @@
   "seen": {
     "page_hashes": {
       "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "73262a267f7b99f9c3e2142d177307b5ac0758b77cf0e44e17d79bc0a76df9af",
-      "https://www.micromania.fr/c/cartes-precommande": "9c306f27b80325677ead3520f7cf36aa57eeb85a96ceabca2cc8d1331e579495",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "d0e125e137660ee252f49807e7b0e2ab0f2957d593898c8f47500d551184fe85",
-      "https://www.micromania.fr/c/cartespokemon": "56d34a916873735c5eb4e1df5b8efc590d7eef0e9c21243133104ca4a2b9cc9c",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "57800e1af83502bef36a9b8ad85f86cbbd312de763899cb8938b7100e9a6f95f",
-      "https://www.philibertnet.com/fr/578-precommandes": "6758cae46cfcfea84ba3b0cf052a8607628db2d102cbef52a5bcf8012315d491",
+      "https://www.micromania.fr/c/cartes-precommande": "72434019352a04d935b114f6cae86460dde7b27d38d5dee30623a33666f7376d",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "b2c0624e8ea302ee656e60e462e2f0565d6317fdef98adb589dd139d75ef0be2",
+      "https://www.micromania.fr/c/cartespokemon": "3c81e6c4aeae370f16c6a9af4c9241389e27a05f4de5440d9d1d5f1ce2d3bb08",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "3a40e944ae33b31bc30ee6dbe192d00ea8c635729e6174bc1ac417961f64dc00",
+      "https://www.philibertnet.com/fr/578-precommandes": "6ec7f39b88d04e73abd0fcf9cc4f04f520e6d75a5c00a04d5ccefb5672e6fe9b",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
