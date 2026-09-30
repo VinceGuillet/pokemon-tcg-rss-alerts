@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "9580aff8f800148f2c16c97d9ff440fe93e70acbe2fde778d7eee52e89363336",
+    "store": "Ludifolie - Recherche Pokémon",
+    "priority": "medium",
+    "title": "Pokemon - Coffret Ultra Premium - Amphinobi Ex",
+    "url": "https://www.ludifolie.com/20889-pokemon-coffret-ultra-premium-amphinobi-ex.html",
+    "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+    "score": 13,
+    "signals": [
+      "coffret",
+      "collection",
+      "premium"
+    ],
+    "price": "149.90 €",
+    "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT"
+  },
+  {
+    "id": "34e345ee388f6096759fd2b34e66d73f5b7e8f03dcbb400122b90af179a0e991",
+    "store": "Ludifolie - Recherche Pokémon",
+    "priority": "medium",
+    "title": "Pokemon - Coffret Ultra Premium - Méga-Dracaufeu X Ex",
+    "url": "https://www.ludifolie.com/23432-pokemon-coffret-ultra-premium-mega-dracaufeu-x-ex.html",
+    "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+    "score": 13,
+    "signals": [
+      "coffret",
+      "méga-évolution",
+      "premium"
+    ],
+    "price": "179.90 €",
+    "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT"
+  },
+  {
+    "id": "9d4a72e5dcf6fded5892d0a269b7081ebfbb4533ed59e0cdc51359683e0593cd",
+    "store": "Ludifolie - Recherche Pokémon",
+    "priority": "medium",
+    "title": "Pokemon EV08 : Étincelles Déferlantes - 36 Boosters",
+    "url": "https://www.ludifolie.com/20831-pokemon-ev08-etincelles-deferlantes-36-boosters.html",
+    "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+    "score": 10,
+    "signals": [
+      "booster",
+      "display"
+    ],
+    "price": "229.90 €",
+    "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT"
+  },
+  {
+    "id": "1669a54646788e7fd9242d599d9ab0f8b851c4f21f815400d433b5218671c1d5",
+    "store": "Ludifolie - Recherche Pokémon",
+    "priority": "medium",
+    "title": "Pokemon EV08 : Étincelles Déferlantes - Booster",
+    "url": "https://www.ludifolie.com/20833-pokemon-ev08-etincelles-deferlantes-booster.html",
+    "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+    "score": 7,
+    "signals": [
+      "booster"
+    ],
+    "price": "6.90 €",
+    "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT"
+  }
+]

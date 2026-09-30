@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT",
+      "id": "1669a54646788e7fd9242d599d9ab0f8b851c4f21f815400d433b5218671c1d5",
+      "price": "6.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon EV08 : Étincelles Déferlantes - Booster",
+      "url": "https://www.ludifolie.com/20833-pokemon-ev08-etincelles-deferlantes-booster.html"
+    },
+    {
+      "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT",
+      "id": "9d4a72e5dcf6fded5892d0a269b7081ebfbb4533ed59e0cdc51359683e0593cd",
+      "price": "229.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon EV08 : Étincelles Déferlantes - 36 Boosters",
+      "url": "https://www.ludifolie.com/20831-pokemon-ev08-etincelles-deferlantes-36-boosters.html"
+    },
+    {
+      "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT",
+      "id": "34e345ee388f6096759fd2b34e66d73f5b7e8f03dcbb400122b90af179a0e991",
+      "price": "179.90 €",
+      "priority": "medium",
+      "score": 13,
+      "signals": [
+        "coffret",
+        "méga-évolution",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon - Coffret Ultra Premium - Méga-Dracaufeu X Ex",
+      "url": "https://www.ludifolie.com/23432-pokemon-coffret-ultra-premium-mega-dracaufeu-x-ex.html"
+    },
+    {
+      "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT",
+      "id": "9580aff8f800148f2c16c97d9ff440fe93e70acbe2fde778d7eee52e89363336",
+      "price": "149.90 €",
+      "priority": "medium",
+      "score": 13,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon - Coffret Ultra Premium - Amphinobi Ex",
+      "url": "https://www.ludifolie.com/20889-pokemon-coffret-ultra-premium-amphinobi-ex.html"
+    },
+    {
       "first_seen": "Tue, 29 Sep 2026 18:53:55 GMT",
       "id": "b6fd2826bc1b66f7693bc612bce2ed9c45fb3299497c2bb833429e0d862db42b",
       "price": "12.95 €",
@@ -3996,12 +4057,12 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "73262a267f7b99f9c3e2142d177307b5ac0758b77cf0e44e17d79bc0a76df9af",
-      "https://www.micromania.fr/c/cartes-precommande": "e1ef9a94ea0c175ffad9de039d0598f36bb38b5415321855b1f2c0a42c1e05d0",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "a53b39a86a6de6458b47cd824b911869fb45252c3f86411666ac8089d72e221d",
-      "https://www.micromania.fr/c/cartespokemon": "82453c7ccde5e96ace1a2e577bc845e646d9363e544afbc6e8bf7e4f9c02b8e8",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "1d07fd2c4802afa7ca7255a965c6c47cdee97c68b6b904438ac7ec1ca13a1f21",
-      "https://www.philibertnet.com/fr/578-precommandes": "243908b01dd1001bc41f2b856e27e371a601cd750838caf0a49e07de0272898f",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "f0ba08ab2dabaa835a609945520e7f143580b9a08a045f8b3eb898df340978eb",
+      "https://www.micromania.fr/c/cartes-precommande": "8fd0b95f7af1689b2495853a08ae4d330af1d58495dc7b977d7630459d977e86",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "e37098170452cc1950eb9268aad52f5897438fdb5d51f37b0ea317dc8ed2731b",
+      "https://www.micromania.fr/c/cartespokemon": "c22efe53fc741653df5287cae397fd833810cd2be9300ea25294dfb713620b5b",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "edeb8678a175c29d420af105b8e8ca3da2ae058ac2bbbdef8e39020a5f8c30b8",
+      "https://www.philibertnet.com/fr/578-precommandes": "e7f5372c92c4f3d0e47f6a989287e27b75a2b3ebab532256473b4a3fc776aa86",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
