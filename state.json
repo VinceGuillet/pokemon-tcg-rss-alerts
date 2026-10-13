@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "first_seen": "Tue, 13 Oct 2026 15:58:06 GMT",
+      "id": "24ad18f604db94b8a44ea2d8a013bc981896512a10e7ae7e1abc0c1311952ba7",
+      "price": null,
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+      "store": "Philibert - Précommandes",
+      "title": "Yu-Gi-Oh Yu-Gi-Oh One Piece - Le Jeu de Cartes Pokémon Riftbound : League Of Legends Sorcery: Contested Realm Star Wars : Unlimited Fermer Star Wars : Unlimited Tous les Jeux de ca",
+      "url": "https://www.philibertnet.com/fr/216-yu-gi-oh"
+    },
+    {
+      "first_seen": "Tue, 13 Oct 2026 15:58:06 GMT",
+      "id": "264f47c073ad20df298c446aa375a7fb49abcffe12821c12a00befd2069404c9",
+      "price": null,
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+      "store": "Philibert - Précommandes",
+      "title": "Topps Topps One Piece - Le Jeu de Cartes Pokémon Riftbound : League Of Legends Sorcery: Contested Realm Star Wars : Unlimited Fermer Star Wars : Unlimited Tous les Jeux de cartes D",
+      "url": "https://www.philibertnet.com/fr/18611-topps"
+    },
+    {
+      "first_seen": "Tue, 13 Oct 2026 15:58:06 GMT",
+      "id": "246b77bf5681bd4b8f521687144da781dda7292011fa32ffe5e18d13ffa83f10",
+      "price": null,
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.philibertnet.com/fr/578-precommandes",
+      "store": "Philibert - Précommandes",
+      "title": "Pokémon Pokémon One Piece - Le Jeu de Cartes Pokémon Riftbound : League Of Legends Sorcery: Contested Realm Star Wars : Unlimited Fermer Star Wars : Unlimited Tous les Jeux de cart",
+      "url": "https://www.philibertnet.com/fr/212-pokemon"
+    },
+    {
       "first_seen": "Wed, 30 Sep 2026 14:51:48 GMT",
       "id": "1669a54646788e7fd9242d599d9ab0f8b851c4f21f815400d433b5218671c1d5",
       "price": "6.90 €",
@@ -4057,12 +4102,12 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "422b27ce13d1ea08f1315ae844f219c687ca644dbbaf13cc2f6b30781d0cc564",
-      "https://www.micromania.fr/c/cartes-precommande": "9ca3f3a5446301ed9b7d3c00cb6fd6ebed0d6ea5e8aa96a0dcc398bb4c12b184",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "a92f39cf5ac06b6b55d963612ef91e1286996b594210631ba3b53c02c16b0614",
-      "https://www.micromania.fr/c/cartespokemon": "538c385fafaac0603b15b45e4d3cb9f9e8149554c4ed7ba86f16846b6af72af8",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "3081415fab901be9d11f3a785224fa405d17d3533220ee1d2c4153cd1f64ae12",
-      "https://www.philibertnet.com/fr/578-precommandes": "6155ebffccb83d37fa649b01b78973873356f5eb33a08eaf450c02f345986566",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "2a5697081a31b6a63c1a00de47c760e0d4bf36179262270dca5ba6824df79787",
+      "https://www.micromania.fr/c/cartes-precommande": "9e3a796368f3199ca7c51778736b28d0be6e4037a2908f03147d00560d07aec7",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "3814ac2b31899218f63805697accb2927d53124ed3fed39930dec62018138360",
+      "https://www.micromania.fr/c/cartespokemon": "be75fda0f09f0c453e18d53e6aae93978c2df6ef823400891223a19fa21e0bbe",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "1d1b1fdd48d5e68e8068a8c452cc823d1d77a89a51898a91fd2ca2b2a435f852",
+      "https://www.philibertnet.com/fr/578-precommandes": "8f624dee0fcf7654896d5f8a474fba8e50309aa01c1db82f064536cfee11daaa",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
