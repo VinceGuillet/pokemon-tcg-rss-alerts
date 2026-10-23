@@ -4102,12 +4102,12 @@
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "e105bc60bc10fcb2f961f4d582289d21982fcf446f748b07c249d2be682cb198",
-      "https://www.micromania.fr/c/cartes-precommande": "c10226c3556b3b74844763b7debd20bcdf54dae61b47816fa91b4c3ac7be47c8",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "7f6f7d8a8a2701bf97a3b929e2fbfa2ea3db479fb80ea5c49ac95edff6879235",
-      "https://www.micromania.fr/c/cartespokemon": "b232a324f893fcd3939d7ff2caf32d266dc920157b802fc2fd4dda65937eb06f",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "dba921aa878a96238f52f069eaa871b4eb38e642ad7c12955c9dbe0962922259",
-      "https://www.philibertnet.com/fr/578-precommandes": "3b13b117638dfd2fdec76ef504f2ff223b4345b4e82a74827ae75e0ced07d666",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "bc625985cbff8be4cd7c275117af76c66b264a8619bf68ec99143d99de32916a",
+      "https://www.micromania.fr/c/cartes-precommande": "c550f841ae18f1c812f825dd5cd6a2ab02b6f19f6af0dd5af76efa895acf0702",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "839e38ea8a5225a55fd726ba1468892de1fe90d264591c0d030f0b17f3cf5f23",
+      "https://www.micromania.fr/c/cartespokemon": "a3cd991e7489961a0e7b4a0b6610dc49a2d46aff29ddd93704b4c45e56da219b",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "0da21c1b8f3f48d716ac89d9d2deac82f001eda1de19ce92b3ca313ffe5c2f5d",
+      "https://www.philibertnet.com/fr/578-precommandes": "f99e803a0ce43c4d8ad21a1e9d76b57e97e4dbf683052dd0038db88e78953a13",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
