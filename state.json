@@ -1,6 +1,190 @@
 {
   "items": [
     {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "238f9019951481485f2ba61028cfbe12982cca22ef8c4a111cb680c05e614b3a",
+      "price": "6.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME05 : Nuit Noire - Booster",
+      "url": "https://www.ludifolie.com/24879-pokemon-me05-nuit-noire-booster.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "0cdb07e22dfdc0412a177cc93d45ec45edd3ce8785ac7ecdafd5d48ad8b85654",
+      "price": "19.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME04 : Chaos Ascendant - Pack 3 Boosters",
+      "url": "https://www.ludifolie.com/24558-pokemon-me04-chaos-ascendant-pack-3-boosters.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "dbda0eb850ae2039c2033a9a5f00caf133532d48997a1a3c3fba49fa87e2614a",
+      "price": "6.90 €",
+      "priority": "medium",
+      "score": 7,
+      "signals": [
+        "booster"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME04 : Chaos Ascendant - Booster",
+      "url": "https://www.ludifolie.com/24555-pokemon-me04-chaos-ascendant-booster.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "ccc0b8c6632b4bf117d3cb984c3af785263496b5edd75f59a0109e74772ddddf",
+      "price": "39.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "collection"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME04 : Chaos Ascendant - Lot de 6 Boosters",
+      "url": "https://www.ludifolie.com/24557-pokemon-me04-chaos-ascendant-lot-de-6-boosters.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "cf1b9117ccb63391f752dedb4573d8611dc313b96ce68e636ccc3069a9d886d1",
+      "price": "69.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME04 : Chaos Ascendant - Coffret Dresseur d’Elite",
+      "url": "https://www.ludifolie.com/24556-pokemon-me04-chaos-ascendant-coffret-dresseur-delite.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "657b62c34fc1caba1773266ce1e560cb753091be7b9384f8f80c0b19411e1204",
+      "price": "209.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "display"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME04 : Chaos Ascendant - 36 Boosters",
+      "url": "https://www.ludifolie.com/24554-pokemon-me04-chaos-ascendant-36-boosters.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "ae1cea60fc6624b019631a86b64de39318da597861049d585a8ef869a51ee40e",
+      "price": "39.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "collection"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME02.5 : Héros Transcendants - Lot de 6 Boosters",
+      "url": "https://www.ludifolie.com/24435-pokemon-me025-heros-transcendants-lot-de-6-boosters.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "28fdb80b3f582eb5855d9444730fa52184ed02c2d8b21d5eb09e92e6b2545d28",
+      "price": "74.90 €",
+      "priority": "medium",
+      "score": 10,
+      "signals": [
+        "booster",
+        "coffret"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon ME01 - Coffret Dresseur d’Elite Méga-Lucario (Boîte Descellée)",
+      "url": "https://www.ludifolie.com/23137-pokemon-me01-coffret-dresseur-delite-mega-lucario-boite-descellee.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "ae96a6ea88f27fcaf5f7f6731364100e18c95f4f4aaba130ed4a581c1227a272",
+      "price": "159.90 €",
+      "priority": "medium",
+      "score": 13,
+      "signals": [
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokemon EV08.5 : Évolutions Prismatiques - Coffret Collection Super Premium",
+      "url": "https://www.ludifolie.com/22143-pokemon-ev085-evolutions-prismatiques-coffret-collection-super-premium.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "0e523aa204d12eb4c22cda880a8357d053a3b3c453241ab3a4f1bfcfc4f083c9",
+      "price": "46.90 €",
+      "priority": "medium",
+      "score": 16,
+      "signals": [
+        "booster",
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokémon - Coffret Collection Premium - Méga-Amphinobi-ex",
+      "url": "https://www.ludifolie.com/24830-pokemon-coffret-collection-premium-mega-amphinobi-ex.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "bf5e8cc4101a3b0cffadd7a8887b59f987642975427f98371d9c4c18e4aa9738",
+      "price": "74.90 €",
+      "priority": "medium",
+      "score": 16,
+      "signals": [
+        "booster",
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokémon - Coffret Collection Poster Premium Héros Transcendants - Méga-Gardevoir",
+      "url": "https://www.ludifolie.com/24193-pokemon-coffret-collection-poster-premium-heros-transcendants-mega-gardevoir.html"
+    },
+    {
+      "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
+      "id": "4819dd11c88a3d67b5fad793de9e7ffd3bdb7fb90a814fc4dd9e9fd5a3b7219b",
+      "price": "74.90 €",
+      "priority": "medium",
+      "score": 16,
+      "signals": [
+        "booster",
+        "coffret",
+        "collection",
+        "premium"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokémon - Coffret Collection Poster Premium Héros Transcendants - Méga-Lucario",
+      "url": "https://www.ludifolie.com/24192-pokemon-coffret-collection-poster-premium-heros-transcendants-mega-lucario.html"
+    },
+    {
       "first_seen": "Tue, 13 Oct 2026 15:58:06 GMT",
       "id": "24ad18f604db94b8a44ea2d8a013bc981896512a10e7ae7e1abc0c1311952ba7",
       "price": null,
@@ -4064,50 +4248,16 @@
       "store": "Playin - Pokémon",
       "title": "Coffret Dresseur d’Elite",
       "url": "https://www.play-in.com/fr/produit/589979/coffret-dresseur-d-elite-etb-ecarlate-et-violet-rivalites-destinees-pokemon-fr"
-    },
-    {
-      "first_seen": "Thu, 09 Jul 2026 22:47:04 GMT",
-      "id": "7e6e8a6e83c38c3226a80f1cbe8b14970b82ba57a8800e89bc34d42390223b71",
-      "price": null,
-      "priority": "high",
-      "score": 21,
-      "signals": [
-        "booster",
-        "coffret",
-        "collection",
-        "display",
-        "etb"
-      ],
-      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
-      "store": "Playin - Pokémon",
-      "title": "coffret d'académie de combat",
-      "url": "https://www.play-in.com/fr/produit/543738/coffret-academie-de-combat-2024-pokemon-fr"
-    },
-    {
-      "first_seen": "Thu, 09 Jul 2026 22:47:02 GMT",
-      "id": "7592a5d76da1f6db17642b98af31dbabf14cc0a124dba6dd070c8877c8538c13",
-      "price": "49.90 €",
-      "priority": "high",
-      "score": 15,
-      "signals": [
-        "coffret",
-        "collection",
-        "premium"
-      ],
-      "source_url": "https://www.play-in.com/fr/offre/50/prochaines-sorties",
-      "store": "Playin - Prochaines sorties",
-      "title": "Coffret Collection Premium Méga-Amphinobi-ex - Pokémon FR",
-      "url": "https://www.play-in.com/fr/produit/656526/coffret-collection-premium-mega-amphinobi-ex-pokemon-fr"
     }
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "4874d75944df6a6316eb93a0d1be4e10e04020d613a1e00d7d304bcaf3aee700",
-      "https://www.micromania.fr/c/cartes-precommande": "300d71e4dafe5e31f29ff230882b1f508724ee4821648d6b1013127368ff1ea9",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "f0398e3ea0fb1618dc190eea9ee864c44ff5e27d2f00e0a88285f2b060c9037c",
-      "https://www.micromania.fr/c/cartespokemon": "349616f3c6323ea48ff85c4074fe219f0bb0b0854fc05da02847142a7d1118d8",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "4f3038913bb4a9927fb0a81dd26f4a051bc8d8998919d2879bb1666f706ff64a",
-      "https://www.philibertnet.com/fr/578-precommandes": "68c07322fb86b24d362972aee3491a25ca1d77b6be39b0c89ce0ef40897f6268",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "ac721cdcacff2bf4408afff2a1b98a063523b5bb13f7cfc30dc73fa6a2f51060",
+      "https://www.micromania.fr/c/cartes-precommande": "c10ee62a7c0aa2b12b2d23dc1d25d7c514d8e8f5fb992a5d6d8d9a74d28d8ff8",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "fd7737963c42215568fe06908ccafd61b24206a332749596d3054621fd8137b0",
+      "https://www.micromania.fr/c/cartespokemon": "ada52c229dcf28493a220582efbac98e53a35c1d926027fdc69e134e4c754cc6",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "30114c21a2b4135fbea8ee8a43b9fec9fde6d660b82b7ae37821a428c6c5c379",
+      "https://www.philibertnet.com/fr/578-precommandes": "048d5e60d26cb92f3ef034867ddd09bef08901ef5e49bf3522e06f0a3434e04f",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
