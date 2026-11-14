@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "first_seen": "Sat, 14 Nov 2026 16:53:04 GMT",
+      "id": "449b16f32584e3f05f2e6dddef3f71d3475a86e16049281bd66e1659994fc8f0",
+      "price": "31.90 €",
+      "priority": "medium",
+      "score": 3,
+      "signals": [
+        "collection"
+      ],
+      "source_url": "https://www.ludifolie.com/recherche?controller=search&s=pokemon",
+      "store": "Ludifolie - Recherche Pokémon",
+      "title": "Pokémon EV10.5 - Collection Illustration - Foudre Noire et Flamme Blanche - Victini",
+      "url": "https://www.ludifolie.com/22642-pokemon-ev105-collection-illustration-foudre-noire-et-flamme-blanche-victini-.html"
+    },
+    {
       "first_seen": "Thu, 05 Nov 2026 18:58:35 GMT",
       "id": "238f9019951481485f2ba61028cfbe12982cca22ef8c4a111cb680c05e614b3a",
       "price": "6.90 €",
@@ -4230,34 +4244,16 @@
       "store": "Playin - Pokémon",
       "title": "Bundle 6 boosters Méga-Évolution – Nuit Noire - Pokémon FR",
       "url": "https://www.play-in.com/fr/produit/650373/bundle-6-boosters-mega-evolution-nuit-noire-pokemon-fr"
-    },
-    {
-      "first_seen": "Thu, 09 Jul 2026 22:47:04 GMT",
-      "id": "751bcf1a725ea0429f5e895b815b6c6afa7d48124e8d50e9be5e865b18837394",
-      "price": null,
-      "priority": "high",
-      "score": 21,
-      "signals": [
-        "booster",
-        "coffret",
-        "collection",
-        "display",
-        "etb"
-      ],
-      "source_url": "https://www.play-in.com/fr/gamme/3/pokemon",
-      "store": "Playin - Pokémon",
-      "title": "Coffret Dresseur d’Elite",
-      "url": "https://www.play-in.com/fr/produit/589979/coffret-dresseur-d-elite-etb-ecarlate-et-violet-rivalites-destinees-pokemon-fr"
     }
   ],
   "seen": {
     "page_hashes": {
-      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "e7b5fd587e238cb5abcd0807a596b1787e358b922934e0f72077b2f90b08760a",
-      "https://www.micromania.fr/c/cartes-precommande": "31721cd8a9c4bbb8eb08e6566743e8415a994b90b910e51da093694da5b54124",
-      "https://www.micromania.fr/c/cartes-prochaines-sorties": "c63c4eae0a2538716018c17c7486457b24ca509beeee6316211b276467b0a6a9",
-      "https://www.micromania.fr/c/cartespokemon": "9acaa63f91ac6588955e4690bb518178077a9df6b1afa7780e3c569a9eecf6b8",
-      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "645fe9c4864911f2992ae5572a5aa93cc5ece24c7d69ae720410fde69e2b396c",
-      "https://www.philibertnet.com/fr/578-precommandes": "5748fa954ce77843f90eeeb2fc289aa68df8e809ed9b8e3c2edcc3bb5e32e3cd",
+      "https://www.ludifolie.com/recherche?controller=search&s=pokemon": "5b16c9381c776f44425dbf314d48420074d6c3f3fe21ff3330377233258bff7c",
+      "https://www.micromania.fr/c/cartes-precommande": "a7b8bf50417118074f1a689be0fb449d4933d8af11fd9ba756d61f61dc53adcb",
+      "https://www.micromania.fr/c/cartes-prochaines-sorties": "847e666e5bebc09e45ad2a9b28d13f8a987294715286c9f803c13a7120365492",
+      "https://www.micromania.fr/c/cartespokemon": "1d3ff892a0b799f2c4bdca806ada28daa3b6158e0385995fb1cd56b81e8d1123",
+      "https://www.parkage.com/fr/recherche?controller=search&s=pokemon": "17e74f37f4a76b5ea9be5d71e5b7c0b2727d7d6ce763bdab26d3db3ce90b7949",
+      "https://www.philibertnet.com/fr/578-precommandes": "9a8abff17f86ba799cd4e2c744e21169d4a32c31fc49bffa9b746c726c7f96d3",
       "https://www.play-in.com/fr/categorie/193/booster-et-display-pokemon": "c12fac4e68e757bfe04742dddaf81971e721cb0b727a0191ecfd500f5fefea66",
       "https://www.play-in.com/fr/gamme/3/pokemon": "c6674a3df87ef28c2d476d71ed13b20c472ded6f9a0f5127920bb845635e3f14",
       "https://www.play-in.com/fr/offre/50/prochaines-sorties": "f54b3740669633230481e9087db8ec2c4dd41b621036107a32d5172356c3fc8d"
